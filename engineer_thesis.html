@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Title</title>
+    <link rel="stylesheet" href="projects.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">My Portfolio</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#portfolio">Portfolio</a></li>
+                <li><a href="index.html#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="project-description">
+            <h2>Development of a program for numerical analysis of heating process and energy transfer in metals exposed to high power laser beam in piko- and femtosecond regime.</h2>
+            <p>The aim of this thesis was to create an application simulating changes in the dynamics of local temperature on the surface of a ferromagnetic metal subjected to a high-intensity pulse laser beam working in the picosecond and femtosecond regimes. Changes in the dynamics of temperatures in the area of the incident beam are presented on a graph using the Qt graphic package. The simulations were carried out using the C ++ language and the three temperature model, which in the case of femtosecond lasers assumes different temperatures for the electron system, the vibrating crystal lattice and the electron-polarized spin system. The main emphasis was placed on the numerical methods used, which were described along with their derivation. The functional specification of the application and solutions related to the technical issues of the program were presented. In addition, a short user manual has also been prepared.</p>
+			<p class="credits">University of Lodz 2021<p/>
+			<p class="credits">Supervisor: dr. hab. inż. Krzysztof Warda<p/>
+        </section>
+
+        <section class="project-images">
+            <h2>Gallery</h2>
+            <div class="image-gallery">
+                <div class="image-item">
+                    <img src="assets/img/3tm.png" alt="Image description">
+                    <p>Results for given constants of nickel.</p>
+                </div>
+                <div class="image-item">
+                    <img src="assets/img/3tm_to_const.png" alt="Image description">
+                    <p>All temperatures are becoming equal.</p>
+                </div>
+            </div>
+			<div class="image-gallery">
+                <div class="image-item">
+                    <img src="assets/img/3tm_mainwindow.png" alt="Image description">
+                    <p>Main window of application.</p>
+                </div>
+                <div class="image-item">
+                    <img src="assets/img/3tm_constants.png" alt="Image description">
+                    <p>Widget allows to change constant values used in equations. Constants are different for each metal.</p>
+                </div>
+            </div>
+			<div class="image-gallery">
+                <div class="image-item">
+                    <img src="assets/img/3tm_equations.png" alt="Image description">
+                    <p>Set of differential equations used to solve the problem. Called 3 temperatures model.</p>
+                </div>
+                
+            </div>
+        </section>
+
+        <section class="project-results">
+            <h2>Project Results</h2>
+			<ul>
+				<li>Three temperatures model shows the change of the temperatures of electron, spin and lattice. For tested constants, the electron temerature growed the most.</li>
+				<li>All three temperatures are becoming equal after certain period of time, althrough the that value is higher than the initial temperatures.</li>
+				<li>Comparison the output data with similar problem solved in literature showed the correctivness of application.</li>
+				<li>Program allows user to set the input values of metal constants, laser, time period and initial temperatures.</li>
+				<li>To make calculations, user can choose from Runge-Kutta methods of orders from 1st to 6th for set of three differential equations.</li>
+				<li>User can also display the charts and save the output data to file.</li>
+			</ul>
+        </section>
+		<section class="project-source">
+			<p>See the pdf with thesis: 
+				<a href="https://www.linkedin.com/in/patrick-schröder-6b2007263/details/projects/1715007299677/single-media-viewer/?profileId=ACoAAECbYyYBEKSqScZYmpnn4rP3dj0ycI8mFdM" target="_blank">
+					<img src="assets/img/linkedin.png" alt="GitHub">
+				</a>
+			</p>
+		</section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Portfolio. All rights reserved.</p>
+    </footer>
+</body>
+</html>
