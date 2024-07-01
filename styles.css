@@ -203,12 +203,17 @@ footer {
     .nav-links li {
         margin: 10px 0;
     }
-
+	
     .hero-content h1 {
-        font-size: 2em;
+        font-size: 1.4em;
     }
 
     .hero-content p {
-        font-size: 1em;
+        font-size: 0.7em;
     }
+	
+	.contact-info {
+		flex-direction: column;
+        align-items: center;
+	}
 }
