@@ -223,6 +223,7 @@ footer {
         margin: 0 auto;
         border-radius: 8px;
         box-shadow: none;
+		top: 60%;
     }
 	
     .nav-links {
