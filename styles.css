@@ -26,13 +26,19 @@ nav {
     font-size: 1.5em;
 }
 
-.nav-links {
-    list-style: none;
+.nav-container {
     display: flex;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    margin-right: 20px; 
 }
 
 .nav-links li {
-    margin-left: 20px;
+    margin: 0 10px;
 }
 
 .nav-links a {
@@ -41,6 +47,19 @@ nav {
     font-size: 1em;
 }
 
+.language-switcher {
+    display: flex;
+}
+
+.language-switcher a {
+    margin: 0 5px;
+}
+
+.language-switcher img {
+    width: 32px;
+    height: 24px;
+    cursor: pointer;
+}
 .hero-section {
     background: url('assets/img/sesja2097.jpg') no-repeat center center/cover;
     color: #fff;

@@ -3,85 +3,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title data-i18n="title">My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+	<script src="translations.js"></script>
+    <script src="main.js"></script>
     <header>
         <nav>
-            <div class="logo">My Portfolio</div>
-            <ul class="nav-links">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
+            <div class="logo" data-i18n="logo">My Portfolio</div>
+            <div class="nav-container">
+                <ul class="nav-links">
+                    <li><a href="#home" data-i18n="nav-home">Home</a></li>
+                    <li><a href="#portfolio" data-i18n="nav-portfolio">Portfolio</a></li>
+                    <li><a href="#contact" data-i18n="nav-contact">Contact</a></li>
+                </ul>
+                <div class="language-switcher">
+                    <a href="#" data-lang="en"><img src="assets/img/gb.jpg" alt="English"></a>
+                    <a href="#" data-lang="pl"><img src="assets/img/pl.png" alt="Polish"></a>
+                    <!--<a href="#" data-lang="de"><img src="assets/img/de.png" alt="German"></a>-->
+                </div>
+            </div>
         </nav>
     </header>
-    
+
     <section id="home" class="hero-section">
         <div class="hero-frame">
             <div class="hero-content">
-                <h1>Welcome to My Portfolio</h1>
-                <p>I'm Patrick Schröder, a software engineer with a master's degree in computer science. My main programming language is Python. Explore my projects and get in touch!</p>
+                <h1 data-i18n="hero-title">Welcome to My Portfolio</h1>
+                <p data-i18n="hero-text">I'm Patrick Schröder, a software engineer with a master's degree in computer science. My main programming language is Python. Explore my projects and get in touch!</p>
             </div>
         </div>
     </section>
 
     <section id="portfolio" class="portfolio-section">
         <div class="portfolio-header">
-			<h2>My Projects</h2>
-		</div>
+            <h2 data-i18n="portfolio-header">My Projects</h2>
+        </div>
         <div class="portfolio-grid">
-		
-			<div class="portfolio-item">
-				<img src="assets/img/comparison_all.png">
-                <h3>Development of a program for comparison of Runge-Kutta and Runge-Kutta-Fehlberg methods of various orders based on the analytical solution to nuclear decay problem.</h3>
-                <p>Jun 2024 - Present</p>
-                <a href="comparison.html">View More</a>
-            </div>
-			
-			<div class="portfolio-item">
-				<img src="assets/img/emf_3d_S.png">
-                <h3>Development of a program for numerical solving Maxwell Equations for electromagnetic field of metal exposed to high power laser beam in the vacuum-metal system.</h3>
-                <p>Oct 2022 - Dec 2023</p>
-                <a href="master_thesis.html">View More</a>
-            </div>
-			
             <div class="portfolio-item">
-				<img src="assets/img/3tm.png">
-                <h3>Development of a program for numerical analysis of heating process and energy transfer in metals exposed to high power laser beam in piko- and femtosecond regime.</h3>
-                <p>May 2020 - Jun 2021</p>
-                <a href="engineer_thesis.html">View More</a>
+                <img src="assets/img/comparison_all.png">
+                <h3 data-i18n="comparison-title">Development of a program for comparison of Runge-Kutta and Runge-Kutta-Fehlberg methods of various orders based on the analytical solution to nuclear decay problem.</h3>
+                <p data-i18n="project1-date">Jun 2024 - Present</p>
+                <a href="comparison.html" data-i18n="view-more">View More</a>
             </div>
-			
+            <div class="portfolio-item">
+                <img src="assets/img/emf_3d_S.png">
+                <h3 data-i18n="master-thesis-title">Development of a program for numerical solving Maxwell Equations for electromagnetic field of metal exposed to high power laser beam in the vacuum-metal system.</h3>
+                <p data-i18n="project2-date">Oct 2022 - Dec 2023</p>
+                <a href="master_thesis.html" data-i18n="view-more">View More</a>
+            </div>
+            <div class="portfolio-item">
+                <img src="assets/img/3tm.png">
+                <h3 data-i18n="engineer-thesis-title">Development of a program for numerical analysis of heating process and energy transfer in metals exposed to high power laser beam in piko- and femtosecond regime.</h3>
+                <p data-i18n="project3-date">May 2020 - Jun 2021</p>
+                <a href="engineer_thesis.html" data-i18n="view-more">View More</a>
+            </div>
         </div>
-		<!--
-		<div class="portfolio-grid2">
-			
-        </div>
-		-->
-		
     </section>
 
     <section id="contact" class="contact-section">
-		<h2>Contact Me</h2>
-		<div class="contact-info">
-			<a href="mailto:patrickschroder479@gmail.com">patrickschroder479@gmail.com</a>
-			<span></span>
-			<a href="tel:+48664910948">+48664910948</a>
-			<span></span>
-			<a href="https://www.linkedin.com/in/patrick-schröder-6b2007263/" target="_blank">
-				<img src="assets/img/linkedin.png" alt="LinkedIn">
-			</a>
-			<span></span>
-			<a href="https://github.com/PatrickSchroder98/" target="_blank">
-				<img src="assets/img/github-mark.png" alt="GitHub">
-			</a>
-		</div>
-	</section>
+        <h2 data-i18n="contact-header">Contact Me</h2>
+        <div class="contact-info">
+            <a href="mailto:patrickschroder479@gmail.com">patrickschroder479@gmail.com</a>
+            <span></span>
+            <a href="tel:+48664910948">+48664910948</a>
+            <span></span>
+            <a href="https://www.linkedin.com/in/patrick-schröder-6b2007263/" target="_blank">
+                <img src="assets/img/linkedin.png" alt="LinkedIn">
+            </a>
+            <span></span>
+            <a href="https://github.com/PatrickSchroder98/" target="_blank">
+                <img src="assets/img/github-mark.png" alt="GitHub">
+            </a>
+        </div>
+    </section>
 
     <footer>
-        <p>&copy; 2024, Patrick Schröder, My Portfolio. All rights reserved.</p>
+        <p data-i18n="copyright">&copy; 2024, Patrick Schröder, My Portfolio. All rights reserved.</p>
     </footer>
 </body>
 </html>

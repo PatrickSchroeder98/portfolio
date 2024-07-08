@@ -3,18 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Title</title>
+    <title>Master Thesis</title>
     <link rel="stylesheet" href="projects.css">
 </head>
 <body>
+	<script src="translations.js"></script>
+    <script src="main.js"></script>
     <header>
         <nav>
-            <div class="logo">My Portfolio</div>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="index.html#portfolio">Portfolio</a></li>
-                <li><a href="index.html#contact">Contact</a></li>
-            </ul>
+            <div class="logo" data-i18n="logo">My Portfolio</div>
+			<div class="nav-container">
+				<ul class="nav-links">
+					<li><a href="index.html" data-i18n="nav-home">Home</a></li>
+					<li><a href="index.html#portfolio" data-i18n="nav-portfolio">Portfolio</a></li>
+					<li><a href="index.html#contact" data-i18n="nav-contact">Contact</a></li>
+				</ul>
+				<div class="language-switcher">
+					<a href="#" data-lang="en"><img src="assets/img/gb.jpg" alt="English"></a>
+					<a href="#" data-lang="pl"><img src="assets/img/pl.png" alt="Polish"></a>
+					<!--<a href="#" data-lang="de"><img src="assets/img/de.png" alt="German"></a>-->
+				</div>
+			</div>
         </nav>
     </header>
     
@@ -26,96 +35,96 @@
         </section>
 	
         <section class="project-description">
-            <h2>Development of a program for numerical solving Maxwell Equations for electromagnetic field of metal exposed to high power laser beam in the vacuum-metal system.</h2>
-            <p>The aim of the diploma thesis was to present the change in the electromagnetic field connected to a high-intensity pulsed laser. To calculate changes in the dynamics of electromagnetic fields, Maxwell's equations and boundary conditions for electric and magnetic fields at the metal-vacuum boundary were used. The calculation was made in the representation of the vector potential A for the s and p polarization of the incident laser light beam. The calculations were performed using a program written in the Python. The results are presented in graphs using an interface generated using the Qt graphics package. The work focuses on presenting the method of solving Maxwell's equations for s and p polarizations. The functional specification of the application and solutions regarding technical issues of the program are described. The section devoted to the results shows graphs exhibiting the attenuation of the wave potential vector and its amplitude for both polarizations. Statistics on the technical implementation of the program are also presented. The user manual allows to learn the correct way to use the program.</p>
-			<p class="credits">University of Lodz 2023<p/>
-			<p class="credits">Supervisor: dr. hab. inż. Krzysztof Warda<p/>
+            <h2 data-i18n="master-thesis-title">Development of a program for numerical solving Maxwell Equations for electromagnetic field of metal exposed to high power laser beam in the vacuum-metal system.</h2>
+            <p data-i18n="master-thesis-description">The aim of the diploma thesis was to present the change in the electromagnetic field connected to a high-intensity pulsed laser. To calculate changes in the dynamics of electromagnetic fields, Maxwell's equations and boundary conditions for electric and magnetic fields at the metal-vacuum boundary were used. The calculation was made in the representation of the vector potential A for the s and p polarization of the incident laser light beam. The calculations were performed using a program written in the Python. The results are presented in graphs using an interface generated using the Qt graphics package. The work focuses on presenting the method of solving Maxwell's equations for s and p polarizations. The functional specification of the application and solutions regarding technical issues of the program are described. The section devoted to the results shows graphs exhibiting the attenuation of the wave potential vector and its amplitude for both polarizations. Statistics on the technical implementation of the program are also presented. The user manual allows to learn the correct way to use the program.</p>
+			<p class="credits" data-i18n="master-thesis-credits1">University of Łódź 2023<p/>
+			<p class="credits" data-i18n="master-thesis-credits2">Supervisor: dr hab. inż. Krzysztof Warda<p/>
 		</section>
 
         <section class="project-images">
-            <h2>Gallery</h2>
+            <h2 data-i18n="gallery">Gallery</h2>
             <div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/emf_3d_S.png" alt="Image">
-                    <p>Wave attenuation for S polarization.</p>
+                    <p data-i18n="master-gallery-img1-caption">Wave attenuation for S polarization.</p>
                 </div>
                 <div class="image-item">
                     <img src="assets/img/emf_3d_P.png" alt="Image">
-                    <p>Wave attenuation for P polarization.</p>
+                    <p data-i18n="master-gallery-img2-caption">Wave attenuation for P polarization.</p>
                 </div>
             </div>
 			<div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/emf_reflectivity.png" alt="Image">
-                    <p>Reflectivity for S and P polarizations.</p>
+                    <p data-i18n="master-gallery-img3-caption">Reflectivity for S and P polarizations.</p>
                 </div>
                 <div class="image-item">
                     <img src="assets/img/emf_ratio.png" alt="Image">
-                    <p>Dependence of the square of the modulus of the ratio of the amplitudes of the Z and X components.</p>
+                    <p data-i18n="master-gallery-img4-caption">Dependence of the square of the modulus of the ratio of the amplitudes of the Z and X component amplitudes on the angle of incidence of the laser light beam.</p>
                 </div>
             </div>
 			<div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/emf_comparison.png" alt="Image">
-                    <p>Wave attenuation for S polarization. Comparison of nickel, wolphram and gold.</p>
+                    <p data-i18n="master-gallery-img5-caption">Wave attenuation for S polarization. Comparison of nickel, wolphram and gold.</p>
                 </div>
                 <div class="image-item">
                     <img src="assets/img/emf_Z.png" alt="Image">
-                    <p>Wave attenuation for S polarization with larger Z, showing the attentuation descending to 0.</p>
+                    <p data-i18n="master-gallery-img6-caption">Wave attenuation for S polarization with larger Z component, showing the attentuation descending to 0.</p>
                 </div>
             </div>
 			<div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/emf_mainwindow.png" alt="Image">
-                    <p>Main window of application.</p>
+                    <p data-i18n="master-gallery-img7-caption">Main window of application.</p>
                 </div>
                 <div class="image-item">
                     <img src="assets/img/emf_presets.png" alt="Image">
-                    <p>User can manually enter data or choose from predefined values for nickel, wolphram or gold. </p>
+                    <p data-i18n="master-gallery-img8-caption">User can manually enter data or choose from predefined values for nickel, wolphram and gold. </p>
                 </div>
             </div>
 			<div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/emf_input.png" alt="Image">
-                    <p>Various input data.</p>
+                    <p data-i18n="master-gallery-img9-caption">Various input data.</p>
                 </div>
                 <div class="image-item">
                     <img src="assets/img/emf_maxwell.png" alt="Image">
-                    <p>Maxwell Equations in basic form.</p>
+                    <p data-i18n="master-gallery-img10-caption">Maxwell Equations in basic form.</p>
                 </div>
             </div>
 			<div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/emf_output.png" alt="Image">
-                    <p>User can show chosen chart in Matplotlib widget.</p>
+                    <p data-i18n="master-gallery-img11-caption">User can show chosen chart in Matplotlib library widget.</p>
                 </div>
             </div>
         </section>
 
         <section class="project-results">
-            <h2>Project Results</h2>
+            <h2 data-i18n="results">Project Results</h2>
 			<ul>
-				<li>The research showed a change in the vector potential depending on time and distances from the surface Z for various metals and for S- and P-type polarizations.</li>
-				<li>The presented reflectance coefficients allow visualization of their relationships from the angle of incidence of the laser beam. Calculations were made for both types polarization. This is a very important conclusion for experimenters at planning measurements for S and P polarizations. It should be noted that when S-type polarization, the reflection coefficient increases with increasing angle of incidence. For P-type polarization, it first decreases as the incidence angle increasesreaching the minimum value and then increases to the value 1 for 90 degrees.</li>
-				<li>The attenuation of the EM wave depends on the Z coordinate representing the distance from metal surface in a direction perpendicular to the surface.</li>
-				<li>The values ​​of the vector potential amplitude depend on time, the Z parameter and X.</li>
-				<li>Graphs showing electric field strength as a function of distance Z from the surface also show a strong perpendicular damping phenomenon electric component of the EM wave in the direction perpendicular to the surface.</li>
-				<li>Dependence of the square of the modulus of the ratio of the amplitudes of the Z and X components on the angle of incidence laser light beam is an increasing function, it reaches its greatest value for an angle of 90 degrees.</li>
-				<li>User can use the app to see the EMP change by inserting various input data, including the range of time, Z and X.</li>
+				<li data-i18n="master-result1">The research showed a change in the vector potential depending on time and distances from the surface Z for various metals and for S- and P-type polarizations.</li>
+				<li data-i18n="master-result2">The presented reflectance coefficients allow visualization of their relationships from the angle of incidence of the laser beam. Calculations were made for both types polarization. This is a very important conclusion for experimenters at planning measurements for S and P polarizations. It should be noted that when S-type polarization, the reflection coefficient increases with increasing angle of incidence. For P-type polarization, it first decreases as the incidence angle increasesreaching the minimum value and then increases to the value 1 for 90 degrees.</li>
+				<li data-i18n="master-result3">The attenuation of the EM wave depends on the Z coordinate representing the distance from metal surface in a direction perpendicular to the surface.</li>
+				<li data-i18n="master-result4">The values ​​of the vector potential amplitude depend on time, the Z parameter and X.</li>
+				<li data-i18n="master-result5">Graphs showing electric field strength as a function of distance Z from the surface also show a strong perpendicular damping phenomenon electric component of the EM wave in the direction perpendicular to the surface.</li>
+				<li data-i18n="master-result6">Dependence of the square of the modulus of the ratio of the amplitudes of the Z and X components on the angle of incidence laser light beam is an increasing function, it reaches its greatest value for an angle of 90 degrees.</li>
+				<li data-i18n="master-result7">User can use the app to see the EMP change, insert various input data, including the range of time, Z and X and see the comparison of EMP of various metals.</li>
 			</ul>
         </section>
 		
 		<section class="project-source">
-			<p>See the pdf with thesis in polish language: 
-				<a href="https://www.linkedin.com/in/patrick-schröder-6b2007263/details/projects/1715008204581/single-media-viewer/?profileId=ACoAAECbYyYBEKSqScZYmpnn4rP3dj0ycI8mFdM" target="_blank">
-					<img src="assets/img/linkedin.png" alt="LinkedIn">
-				</a>
-			</p>
+			<p data-i18n="source">See the pdf with thesis in polish language: </p>
+			<a href="https://www.linkedin.com/in/patrick-schröder-6b2007263/details/projects/1715008204581/single-media-viewer/?profileId=ACoAAECbYyYBEKSqScZYmpnn4rP3dj0ycI8mFdM" target="_blank">
+				<img src="assets/img/linkedin.png" alt="LinkedIn">
+			</a>
+			
 		</section>
     </main>
 
     <footer>
-        <p>&copy; 2024, Patrick Schröder, My Portfolio. All rights reserved.</p>
+        <p data-i18n="copyright">&copy; 2024, Patrick Schröder, My Portfolio. All rights reserved.</p>
     </footer>
 </body>
 </html>

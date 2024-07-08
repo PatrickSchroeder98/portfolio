@@ -3,18 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Title</title>
+    <title>Comparison</title>
     <link rel="stylesheet" href="projects.css">
 </head>
 <body>
+	<script src="translations.js"></script>
+    <script src="main.js"></script>
     <header>
         <nav>
-            <div class="logo">My Portfolio</div>
-            <ul class="nav-links">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="index.html#portfolio">Portfolio</a></li>
-                <li><a href="index.html#contact">Contact</a></li>
-            </ul>
+            <div class="logo" data-i18n="logo">My Portfolio</div>
+			<div class="nav-container">
+				<ul class="nav-links">
+					<li><a href="index.html" data-i18n="nav-home">Home</a></li>
+					<li><a href="index.html#portfolio" data-i18n="nav-portfolio">Portfolio</a></li>
+					<li><a href="index.html#contact" data-i18n="nav-contact">Contact</a></li>
+				</ul>
+				<div class="language-switcher">
+					<a href="#" data-lang="en"><img src="assets/img/gb.jpg" alt="English"></a>
+					<a href="#" data-lang="pl"><img src="assets/img/pl.png" alt="Polish"></a>
+					<!--<a href="#" data-lang="de"><img src="assets/img/de.png" alt="German"></a>-->
+				</div>
+			</div>
         </nav>
     </header>
     
@@ -26,24 +35,24 @@
         </section>
 	
         <section class="project-description">
-            <h2>Development of a program for comparison of Runge-Kutta and Runge-Kutta-Fehlberg methods of various orders based on the analytical solution to nuclear decay problem.</h2>
-			<p>The aim of this project is to compare the Runge-Kutta methods of orders 1, 2, 3, 4, 5, 6 and Runge-Kutta-Fehlberg methods of orders 5, 6, 7, 8. The comparison is based on the nuclear decay problem solved in the analytical way. The chart can present soulutions of the differential equation or the difference beetween analytical solution and numerical solution. Charts are made with the usage of Matplotlib Python library. The user-friendly GUI is developed using PyQt6<p/>
-			<p class="credits">2024, Work in progress<p/>
+            <h2 data-i18n="comparison-title">Development of a program for comparison of Runge-Kutta and Runge-Kutta-Fehlberg methods of various orders based on the analytical solution to nuclear decay problem.</h2>
+			<p data-i18n="comparison-description">The aim of this project is to compare the Runge-Kutta methods of orders 1, 2, 3, 4, 5, 6 and Runge-Kutta-Fehlberg methods of orders 5, 6, 7, 8. The comparison is based on the nuclear decay problem solved in the analytical way. The chart can present soulutions of the differential equation or the difference beetween analytical solution and numerical solution. Charts are made with the usage of Matplotlib Python library. The user-friendly GUI is developed using PyQt6.<p/>
+			<p class="credits" data-i18n="comparison-credits">Self paced project, 2024. Work in progress.<p/>
 			
 		</section>
 
         <section class="project-images">
-            <h2>Gallery</h2>
+            <h2 data-i18n="gallery">Gallery</h2>
             <div class="image-gallery">
                 <div class="image-item">
                     <img src="assets/img/nuclear_decay.png" alt="Image description">
-                    <p>Numerical and analytical counted function in large time scale. This chart prooves the correctivness of methods.</p>
+                    <p data-i18n="comparison-gallery-img1-caption">Numerically and analytically counted function in large time scale. This chart prooves the correctivness of methods.</p>
                 </div>
                 <div class="image-item">
                     <img src="assets/img/comparison_all.png" alt="Image description">
-                    <p>Comparison of all numerical methods accuracy for this problem.</p>
+                    <p data-i18n="comparison-gallery-img2-caption">Comparison of all numerical methods accuracy used to solve this problem.</p>
                 </div>
-                <!-- Repeat image-item as needed -->
+                
             </div>
         </section>
 
@@ -52,16 +61,16 @@
             <p></p>
         </section>-->
 		<section class="project-source">
-			<p>See the source code: 
-				<a href="https://github.com/PatrickSchroder98/rk_comparison" target="_blank">
-					<img src="assets/img/github-mark.png" alt="GitHub">
-				</a>
-			</p>
+			<p data-i18n="source-code">See the source code: </p>
+			<a href="https://github.com/PatrickSchroder98/rk_comparison" target="_blank">
+				<img src="assets/img/github-mark.png" alt="GitHub">
+			</a>
+			
 		</section>
     </main>
 
     <footer>
-        <p>&copy; 2024, Patrick Schröder,  My Portfolio. All rights reserved.</p>
+        <p data-i18n="copyright">&copy; 2024, Patrick Schröder,  My Portfolio. All rights reserved.</p>
     </footer>
 </body>
 </html>
