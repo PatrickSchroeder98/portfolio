@@ -8,6 +8,9 @@ const translations = {
         "hero-title": "Welcome to my Portfolio",
         "hero-text": "I'm Patrick Schröder, a software engineer with a master's degree in computer science. My main programming language is Python. Explore my projects and get in touch!",
         "portfolio-header": "My Projects",
+		"sorted-by": "Sorted by:",
+		"sorted-relevance": "Relevance",
+		"sorted-date": "Date",
         "project1-date": "Jun 2024 - Jul 2024",
         "project2-date": "Oct 2022 - Dec 2023",
         "project3-date": "May 2020 - Jun 2021",
@@ -78,7 +81,7 @@ const translations = {
         "comparison-result7": "The .csv file allows user to save the calculated data in a clear form.",
         "source-code": "See the source code:",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.2.0. All rights reserved."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.0. All rights reserved."
 
 	},
     pl: {
@@ -90,6 +93,9 @@ const translations = {
         "hero-title": "Witam na moim Portfolio",
         "hero-text": "Nazywam się Patrick Schröder, jestem inżynierem oprogramowania z tytułem magistra informatyki. Moim głównym językiem programowania jest Python. Przeglądaj moje projekty i skontaktuj się ze mną!",
         "portfolio-header": "Moje Projekty",
+		"sorted-by": "Posortowane według:",
+		"sorted-relevance": "Trafności",
+		"sorted-date": "Daty",
         "project1-date": "Cze 2024 - Lip 2024",
         "project2-date": "Paź 2022 - Gru 2023",
         "project3-date": "Maj 2020 - Cze 2021",
@@ -160,7 +166,7 @@ const translations = {
         "comparison-result7": "Plik .csv pozwala użytkownikowi zapisać obliczone dane w przejrzystej formie.",
         "source-code": "Zobacz kod źródłowy:",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.2.0. Wszelkie prawa zastrzeżone."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.0. Wszelkie prawa zastrzeżone."
 		
     },
     de: {
@@ -172,6 +178,9 @@ const translations = {
         "hero-title": "Willkommen in meinem Portfolio",
         "hero-text": "Ich bin Patrick Schröder, ein Softwareingenieur mit einem Master-Abschluss in Informatik. Meine Hauptprogrammiersprache ist Python. Entdecken Sie meine Projekte und nehmen Sie Kontakt auf!",
         "portfolio-header": "Meine Projekte",
+		"sorted-by": "Sortiert nach:",
+		"sorted-relevance": "Relevanz",
+		"sorted-date": "Datum",
         "project1-date": "Jun 2024 - Jul 2024",
         "project2-date": "Okt 2022 - Dez 2023",
         "project3-date": "Mai 2020 - Jun 2021",
@@ -242,7 +251,7 @@ const translations = {
         "comparison-result7": "Die .csv-Datei ermöglicht dem Benutzer, die berechneten Daten in klarer Form zu speichern.",
         "source-code": "Siehe den Quellcode:",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.2.0. Alle Rechte vorbehalten."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.0. Alle Rechte vorbehalten."
 
 	}
 };

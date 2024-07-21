@@ -1,0 +1,36 @@
+@media (max-width: 600px) {
+	.hero-frame {
+        width: 80%;
+        margin: 0 auto;
+        border-radius: 8px;
+        box-shadow: none;
+		top: 60%;
+    }
+	
+    .nav-links {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+	
+    .hero-content h1 {
+        font-size: 1.4em;
+    }
+
+    .hero-content p {
+        font-size: 0.7em;
+    }
+	
+	.contact-info {
+		flex-direction: column;
+        align-items: center;
+	}
+
+    .portfolio-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+}
