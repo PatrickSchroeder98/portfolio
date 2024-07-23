@@ -81,7 +81,7 @@ const translations = {
         "comparison-result7": "The .csv file allows user to save the calculated data in a clear form.",
         "source-code": "See the source code:",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.0. All rights reserved."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -166,7 +166,7 @@ const translations = {
         "comparison-result7": "Plik .csv pozwala użytkownikowi zapisać obliczone dane w przejrzystej formie.",
         "source-code": "Zobacz kod źródłowy:",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.0. Wszelkie prawa zastrzeżone."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -251,7 +251,7 @@ const translations = {
         "comparison-result7": "Die .csv-Datei ermöglicht dem Benutzer, die berechneten Daten in klarer Form zu speichern.",
         "source-code": "Siehe den Quellcode:",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.0. Alle Rechte vorbehalten."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.3.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
