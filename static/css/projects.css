@@ -114,8 +114,9 @@ main {
 }
 
 .project-source a {
-    margin-left: 10px;
+    margin-left: 7px;
     display: inline-flex;
+    font-size: 1.2em;
 }
 
 .project-source img {

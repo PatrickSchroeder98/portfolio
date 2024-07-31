@@ -2,7 +2,8 @@
 This is my portfolio website. You can see it by clicking this link:  
 [patrickschroeder98.github.io/portfolio](https://patrickschroeder98.github.io/portfolio/)
 
-Changelog:
+Changelog:  
+1.4.0 - added SDW page and links, added favicon, small fixes  
 1.3.1 - updated copyrights and readme  
 1.3.0 - updated layout, added buttons to sort projects  
 1.2.0 - updated page about RK comparison project  
