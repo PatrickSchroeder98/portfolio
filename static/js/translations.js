@@ -97,7 +97,7 @@ const translations = {
 		"sdw-result4": "The website is meant for continous development along with Portfolio website.",
 		"sdw-code": "See the website: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -198,7 +198,7 @@ const translations = {
     	"sdw-result4": "Strona jest przeznaczona do ciągłego rozwoju wraz ze stroną Portfolio.",
 		"sdw-code": "Zobacz stronę internetową: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -284,22 +284,22 @@ const translations = {
         "comparison-result7": "Die .csv-Datei ermöglicht dem Benutzer, die berechneten Daten in klarer Form zu speichern.",
         "source-code": "Siehe den Quellcode und Dokumentation:",
 
-		"sdw-title": "Software-Dokumentations-Website",
-    	"sdw-description": "Ziel dieses Projekts war es, eine Website zu erstellen, die die Softwaredokumentation von Projekten präsentieren kann. Die Website wurde mit der Portfolio-Website verlinkt und bildete ein kleines Netzwerk, was neben der Erstellung der Seite ein wichtiger Schritt war. Ähnlich wie beim Portfolio wurde für die Bereitstellung dieses Projekts der GitHub Pages-Dienst genutzt. Die Software-Dokumentations-Website ist für die kontinuierliche Entwicklung gedacht, da sie zusammen mit der Erstellung neuer Projekte aktualisiert werden soll.",
+		"sdw-title": "Software-Dokumentations-Webseite",
+    	"sdw-description": "Ziel dieses Projekts war es, eine Webseite zu erstellen, die die Softwaredokumentation von Projekten präsentieren kann. Die Webseite wurde mit der Portfolio-Webseite verlinkt und bildete ein kleines Netzwerk, was neben der Erstellung der Seite ein wichtiger Schritt war. Ähnlich wie beim Portfolio wurde für die Bereitstellung dieses Projekts der GitHub Pages-Dienst genutzt. Die Software-Dokumentations-Webseite ist für die kontinuierliche Entwicklung gedacht, da sie zusammen mit der Erstellung neuer Projekte aktualisiert werden soll.",
     	"sdw-credits": "Eigenständig durchgeführtes Projekt, kontinuierliche Entwicklung.",
-    	"sdw-gallery-img1-caption": "Hauptseite der Website.",
+    	"sdw-gallery-img1-caption": "Hauptseite der Webseite.",
     	"sdw-gallery-img2-caption": "Hauptseite des Projekts Vergleich von RK und FRK.",
 		"sdw-gallery-img3-caption": "Projektumfang des Vergleichs von RK und FRK.",
     	"sdw-gallery-img4-caption": "Anforderungen des Projekts Vergleich von RK und FRK.",
     	"sdw-gallery-img5-caption": "Hauptseite der durch Sphinx generierten Dokumentation.",
-    	"sdw-gallery-img6-caption": "Projektumfang der Portfolio-Website.",
-    	"sdw-result1": "Die Website enthält die Softwaredokumentation von Projekten wie Umfang, Anforderungen, Schnittstellenbeschreibung und Bibliographie. Für einige Projekte ist auch die Dokumentation des Codes verfügbar.",
-		"sdw-result2": "Die Website kann den Benutzer leicht von der Hauptseite zurück zum Portfolio umleiten.",
+    	"sdw-gallery-img6-caption": "Projektumfang der Portfolio-Webseite.",
+    	"sdw-result1": "Die Webseite enthält die Softwaredokumentation von Projekten wie Umfang, Anforderungen, Schnittstellenbeschreibung und Bibliographie. Für einige Projekte ist auch die Dokumentation des Codes verfügbar.",
+		"sdw-result2": "Die Webseite kann den Benutzer leicht von der Hauptseite zurück zum Portfolio umleiten.",
     	"sdw-result3": "Für das Projekt Vergleich von RK und FRK wurde die Sphinx RTD-Code-Dokumentation hinzugefügt. Der Benutzer kann über den Link auf der Sphinx-Hauptseite zur Projektseite zurückkehren.",
-    	"sdw-result4": "Die Website ist für die kontinuierliche Entwicklung zusammen mit der Portfolio-Website gedacht.",
-    	"sdw-code": "Siehe die Website: ",
+    	"sdw-result4": "Die Webseite ist für die kontinuierliche Entwicklung zusammen mit der Portfolio-Webseite gedacht.",
+    	"sdw-code": "Siehe die Webseite: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
