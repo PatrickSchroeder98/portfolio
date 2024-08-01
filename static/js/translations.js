@@ -97,7 +97,7 @@ const translations = {
 		"sdw-result4": "The website is meant for continous development along with Portfolio website.",
 		"sdw-code": "See the website: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.2. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -198,7 +198,7 @@ const translations = {
     	"sdw-result4": "Strona jest przeznaczona do ciągłego rozwoju wraz ze stroną Portfolio.",
 		"sdw-code": "Zobacz stronę internetową: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.2. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -299,7 +299,7 @@ const translations = {
     	"sdw-result4": "Die Webseite ist für die kontinuierliche Entwicklung zusammen mit der Portfolio-Webseite gedacht.",
     	"sdw-code": "Siehe die Webseite: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.2. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
