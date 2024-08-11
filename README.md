@@ -3,6 +3,7 @@ This is my portfolio website. You can see it by clicking this link:
 [patrickschroeder98.github.io/portfolio](https://patrickschroeder98.github.io/portfolio/)
 
 Changelog:  
+1.5.0 - added Fractal Art Website project page  
 1.4.2 - code corrections  
 1.4.1 - fixed typo  
 1.4.0 - added SDW page and links, added favicon, small fixes  

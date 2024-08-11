@@ -18,7 +18,7 @@ const translations = {
         "view-more": "View More",
         "contact-header": "Contact Me",
 		
-		"engineer-thesis-title": "Development of a program for numerical analysis of heating process and energy transfer in metals exposed to high power laser beam in piko- and femtosecond regime.",
+		"engineer-thesis-title": "Development of a program for numerical analysis of heating process and energy transfer in metals exposed to high power laser beam in piko- and femtosecond regime",
 		"engineer-thesis-description": "The aim of this thesis was to create an application simulating changes in the dynamics of local temperature on the surface of a ferromagnetic metal subjected to a high-intensity pulse laser beam working in the picosecond and femtosecond regimes. Changes in the dynamics of temperatures in the area of the incident beam are presented on a graph using the Qt graphic package. The simulations were carried out using the C ++ language and the three temperature model, which in the case of femtosecond lasers assumes different temperatures for the electron system, the vibrating crystal lattice and the electron-polarized spin system. The main emphasis was placed on the numerical methods used, which were described along with their derivation. The functional specification of the application and solutions related to the technical issues of the program were presented. In addition, a short user manual has also been prepared.",
 		"engineer-thesis-credits1": "University of Łódź 2021",
 		"engineer-thesis-credits2": "Supervisor: dr hab. inż. Krzysztof Warda",
@@ -37,7 +37,7 @@ const translations = {
 		"result6": "User can also display the charts and save the output data to file.",
 		"source": "See the pdf with thesis in polish language:",
 		
-		"master-thesis-title": "Development of a program for numerical solving Maxwell Equations for electromagnetic field of metal exposed to high power laser beam in the vacuum-metal system.",
+		"master-thesis-title": "Development of a program for numerical solving Maxwell Equations for electromagnetic field of metal exposed to high power laser beam in the vacuum-metal system",
 		"master-thesis-description": "The aim of the diploma thesis was to present the change in the electromagnetic field connected to a high-intensity pulsed laser. To calculate changes in the dynamics of electromagnetic fields, Maxwell's equations and boundary conditions for electric and magnetic fields at the metal-vacuum boundary were used. The calculation was made in the representation of the vector potential A for the s and p polarization of the incident laser light beam. The calculations were performed using a program written in the Python. The results are presented in graphs using an interface generated using the Qt graphics package. The work focuses on presenting the method of solving Maxwell's equations for s and p polarizations. The functional specification of the application and solutions regarding technical issues of the program are described. The section devoted to the results shows graphs exhibiting the attenuation of the wave potential vector and its amplitude for both polarizations. Statistics on the technical implementation of the program are also presented. The user manual allows to learn the correct way to use the program.",
 		"master-thesis-credits1": "University of Łódź 2023",
 		"master-thesis-credits2": "Supervisor: dr hab. inż. Krzysztof Warda",
@@ -60,7 +60,7 @@ const translations = {
 		"master-result6": "Dependence of the square of the modulus of the ratio of the amplitudes of the Z and X components on the angle of incidence laser light beam is an increasing function, it reaches its greatest value for an angle of 90 degrees.",
 		"master-result7": "User can use the app to see the EMP change, insert various input data, including the range of time, Z and X and see the comparison of EMP of various metals.",
 		
-		"comparison-title": "Development of a program for comparison of Runge-Kutta and Runge-Kutta-Fehlberg methods of various orders based on the analytical solution to nuclear decay problem.",
+		"comparison-title": "Development of a program for comparison of Runge-Kutta and Runge-Kutta-Fehlberg methods of various orders based on the analytical solution to nuclear decay problem",
         "comparison-description": "The aim of this project was to compare the Runge-Kutta methods of orders 1, 2, 3, 4, 5, 6 and Runge-Kutta-Fehlberg methods of orders 5, 6, 7, 8. The comparison was based on the nuclear decay problem solved analytically. The chart presented solutions of the differential equation, the difference between the analytical solution and the numerical solution, and the minimal, maximal, and mean values of the comparison. All charts were created using the Matplotlib Python library. The user-friendly GUI was developed using PyQt6.",
         "comparison-credits": "Self-paced project, 06.2024 - 07.2024.",
         "comparison-gallery-img1-caption": "Numerically and analytically counted function in large time scale. This chart proves the correctness of methods.",
@@ -97,7 +97,19 @@ const translations = {
 		"sdw-result4": "The website is meant for continous development along with Portfolio website.",
 		"sdw-code": "See the website: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.2. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"faw-title": "Fractal Art Website",
+		"project5-date": "Aug 2024 (first version)",
+		"faw-description": "The website created during this project was designed to showcase my accomplishments in digital art. Viewers can see various drafts and paintings there. Although the first version of the website is complete, not all of the finished paintings have been showcased yet due to an upcoming decision about their presentation. More updates coming soon.",
+		"faw-gallery-img1-caption": "Main page of website.",
+		"faw-gallery-img2-caption": `Page about "Inspiration" painting.`,
+		"faw-gallery-img3-caption": "Page about Mandelbrot Set drafts.",
+		"faw-gallery-img4-caption": "Page about Julia Set drafts.",
+		"faw-result1": "The website shows my accomplishments in digital art, displaying paintings and drafts. There are also details about various works and my backstory focused on fractal art.",
+		"faw-result2": "The website can redirect user to my Instagram account with more drafts.",
+		"faw-result3": "The website is meant for continous development as my digital art collection is growing.",
+		"faw-code": "Follow the link to visit the website or check it's documentation: ",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -119,7 +131,7 @@ const translations = {
         "view-more": "Zobacz więcej",
         "contact-header": "Skontaktuj się ze mną",
 		
-		"engineer-thesis-title": "Opracowanie programu do analizy numerycznej procesu nagrzewania i transferu energii w metalach poddanych działaniu promieniowania laserowego dużej mocy w reżimie piko- i femto-sekundowym.",
+		"engineer-thesis-title": "Opracowanie programu do analizy numerycznej procesu nagrzewania i transferu energii w metalach poddanych działaniu promieniowania laserowego dużej mocy w reżimie piko- i femto-sekundowym",
 		"engineer-thesis-description": "Celem niniejszej pracy dyplomowej było stworzenie aplikacji symulującej zmiany dynamiki lokalnej temperatury na powierzchni metalu ferromagnetycznego poddanego odziaływaniu wiązki lasera imulsowego dużej mocy pracującego w reżimie pikosekundowym i femtoskundowym. Zmiany dynamiki temperatur w obszarze działania padajacej wiązki zostały przedstawione na wykresie z wykorzystaniem pakietu graficznego Qt. Symulacje zostały przeprowadzone z wykorzystaniem języka C++ oraz modelu trzech temperatur który zakłada w przypadku laserów femtosekundowych, różne temeratury dla układu elektronów, drgajacej sieci krysztalicznej i układu spinów spolaryzowanych elektronów. Głowny nacisk położono na wykorzystywane metody numeryczne, które zostały opisane wraz z ich wyprowadzeniem. Przedstawiona została specyfikacja funkcjonalna aplikacji oraz rozwiązania dotyczące kwestii technicznych programu. Ponadto przygotowano również krótką instrukcję dla użytkownika.",
 		"engineer-thesis-credits1": "Uniwersytet Łódzki, 2021",
 		"engineer-thesis-credits2": "Promotor: dr hab. inż. Krzysztof Warda",
@@ -138,7 +150,7 @@ const translations = {
 		"result6": "Użytkownik może też wyświetlać wykresy i zapisać wyniki do pliku.",
 		"source": "Zobacz plik pdf z pracą w języku polskim:",
 		
-		"master-thesis-title": "Opracowanie programu do rozwiązania numerycznego równań Maxwella dla pola elektromagnetycznego metalu poddanego działaniu wiązki światła laserowego dużej mocy w układzie próżnia-metal.",
+		"master-thesis-title": "Opracowanie programu do rozwiązania numerycznego równań Maxwella dla pola elektromagnetycznego metalu poddanego działaniu wiązki światła laserowego dużej mocy w układzie próżnia-metal",
 		"master-thesis-description": "Celem niniejszej pracy dyplomowej było przedstawienie zmian pola elektromagnetycznego występującego w metalu poddanym działaniu lasera impulsowego o dużej mocy. Aby obliczyć zmiany dynamiki pól elektromagnetycznych wykorzystano równania Maxwella oraz warunki brzegowe dla pól elektrycznych i magnetycznych na granicy ośrodków metal-próżnia. Wyliczenia dokonano w reprezentacji potencjału wektorowego A dla polaryzacji s i p padającej wiązki światła laserowego. Obliczenia zostały wykonane za pomocą programu napisanego w języku programowania Python. Wyniki przedstawione są za pomocą wykresów z użyciem interfejsu wygenerowanego z użyciem pakietu graficznego Qt. W pracy położono nacisk na przedstawienie sposobu rozwiązania równań Maxwella dla polaryzacji s i p.Opisana została specyfikacja funkcjonalna aplikacji oraz rozwiązania dotyczące kwestii technicznych programu. W sekcji poświęconej wynikom pokazane zostały wykresy obrazujące tłumienie wektora potencjału fali oraz jej amplitudy dla obu polaryzacji. Przedstawione są także statystyki dotyczące technicznej realizacji programu. Instrukcja użytkownika pozwala na zapoznanie się z poprawnym sposobem użytkowania programu.",
 		"master-thesis-credits1": "Uniwersytet Łódzki, 2023",
 		"master-thesis-credits2": "Promotor: dr hab. inż. Krzysztof Warda",
@@ -161,7 +173,7 @@ const translations = {
 		"master-result6": "Zależność kwadratu modułu stosunku amplitud składowej Z i X od kąta padania wiązki światła laserowego jest funkcją rosnącą, osiąga największą wartość dla kąta równego 90 stopni.",
 		"master-result7": "Użytkownik może wykorzystywać program do pokazania zmiany pola elektromagnetycznego, wprowadzania różnych danych wejściowych, w tym zakres czasu, Z i X oraz pokazania porównania zmian EMP dla różnych metali.",
 		
-		"comparison-title": "Opracowanie programu do porównania metod Rungego-Kutty i Rungego-Kutty-Fehlberga różnych rzędów na podstawie analitycznego rozwiązania problemu rozpadu jądrowego.",
+		"comparison-title": "Opracowanie programu do porównania metod Rungego-Kutty i Rungego-Kutty-Fehlberga różnych rzędów na podstawie analitycznego rozwiązania problemu rozpadu jądrowego",
         "comparison-description": "Celem tego projektu było porównanie metod Rungego-Kutty rzędu 1, 2, 3, 4, 5, 6 i metod Rungego-Kutty-Fehlberga rzędu 5, 6, 7, 8. Porównanie opierało się na rozwiązaniu problemu rozpadu jądrowego w sposób analityczny. Wykres przedstawiał rozwiązania równania różniczkowego, różnicę między rozwiązaniem analitycznym a numerycznym oraz minimalne, maksymalne i średnie wartości porównania. Wszystkie wykresy zostały stworzone przy użyciu biblioteki Matplotlib w języku Python. Przyjazny dla użytkownika interfejs graficzny został opracowany przy użyciu PyQt6.",
         "comparison-credits": "Projekt wykonywany samodzielnie, 06.2024 - 07.2024.",
         "comparison-gallery-img1-caption": "Numerycznie i analitycznie obliczona funkcja w dużej skali czasowej. Ten wykres potwierdza poprawność metod.",
@@ -197,8 +209,20 @@ const translations = {
     	"sdw-result3": "Do projektu Porównanie RK i FRK dodano dokumentację kodu Sphinx RTD. Użytkownik może wrócić do strony projektu, korzystając z linku na głównej stronie wygenerowanej przez Sphinx.",
     	"sdw-result4": "Strona jest przeznaczona do ciągłego rozwoju wraz ze stroną Portfolio.",
 		"sdw-code": "Zobacz stronę internetową: ",
+
+		"faw-title": "Strona Sztuki Fraktalnej",
+    	"project5-date": "Sie 2024 (pierwsza wersja)",
+    	"faw-description": "Strona stworzona w ramach tego projektu została zaprojektowana, aby zaprezentować moje osiągnięcia w dziedzinie sztuki cyfrowej. Oglądający mogą zobaczyć tam różne szkice i obrazy. Choć pierwsza wersja strony jest ukończona, nie wszystkie ukończone obrazy zostały jeszcze zaprezentowane z powodu nadchodzącej decyzji dotyczącej ich prezentacji. Więcej aktualizacji już wkrótce.",
+    	"faw-gallery-img1-caption": "Strona główna strony internetowej.",
+    	"faw-gallery-img2-caption": "Strona o obrazie „Inspiracja”.",
+    	"faw-gallery-img3-caption": "Strona o szkicach zbioru Mandelbrota.",
+    	"faw-gallery-img4-caption": "Strona o szkicach zbioru Julii.",
+    	"faw-result1": "Strona pokazuje moje osiągnięcia w sztuce cyfrowej, prezentując obrazy i szkice. Znajdują się tam również szczegóły dotyczące różnych prac oraz moja historia skupiająca się na sztuce fraktalnej.",
+    	"faw-result2": "Strona może przekierować użytkownika na moje konto na Instagramie z większą liczbą szkiców.",
+    	"faw-result3": "Strona jest przeznaczona do ciągłego rozwoju, ponieważ moja kolekcja sztuki cyfrowej rośnie.",
+    	"faw-code": "Skorzystaj z linku, aby odwiedzić stronę internetową lub sprawdzić jej dokumentację: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.2. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -213,14 +237,16 @@ const translations = {
 		"sorted-by": "Sortiert nach:",
 		"sorted-relevance": "Relevanz",
 		"sorted-date": "Datum",
+
         "project1-date": "Jun 2024 - Jul 2024",
         "project2-date": "Okt 2022 - Dez 2023",
         "project3-date": "Mai 2020 - Jun 2021",
 		"project4-date": "Jul 2024 - Aug 2024 (erste Version)",
+
         "view-more": "Mehr anzeigen",
         "contact-header": "Kontaktieren Sie mich",
 		
-		"engineer-thesis-title": "Entwicklung eines Programms zur numerischen Analyse des Heizprozesses und des Energietransfers in Metallen, die einem Hochleistungslaserstrahl im Pico- und Femtosekundenbereich ausgesetzt sind.",
+		"engineer-thesis-title": "Entwicklung eines Programms zur numerischen Analyse des Heizprozesses und des Energietransfers in Metallen, die einem Hochleistungslaserstrahl im Pico- und Femtosekundenbereich ausgesetzt sind",
 		"engineer-thesis-description": "Ziel dieser Arbeit war es, eine Anwendung zu erstellen, die Änderungen der lokalen Temperaturdynamik auf der Oberfläche eines ferromagnetischen Metalls simuliert, das einem hochintensiven gepulsten Laserstrahl im Pico- und Femtosekundenbereich ausgesetzt ist. Änderungen der Temperaturdynamik im Bereich des auftreffenden Strahls werden in einem Diagramm unter Verwendung des Qt-Grafikpakets dargestellt. Die Simulationen wurden mit der Programmiersprache C++ und dem Drei-Temperatur-Modell durchgeführt, das im Falle von Femtosekundenlasern unterschiedliche Temperaturen für das Elektronensystem, das vibrierende Kristallgitter und das elektronisch polarisierte Spinsystem annimmt. Der Schwerpunkt lag auf den verwendeten numerischen Methoden, die zusammen mit ihrer Herleitung beschrieben wurden. Die funktionalen Spezifikationen der Anwendung und Lösungen im Zusammenhang mit den technischen Fragen des Programms wurden vorgestellt. Darüber hinaus wurde auch ein kurzes Benutzerhandbuch vorbereitet.",
 		"engineer-thesis-credits1": "Universität Łódź 2021",
         "engineer-thesis-credits2": "Betreuer: Dr. hab. inż. Krzysztof Warda",
@@ -239,7 +265,7 @@ const translations = {
 		"result6": "Der Benutzer kann auch die Diagramme anzeigen und die Ausgabedaten in einer Datei speichern.",
 		"source": "Siehe das PDF mit der Arbeit in polnischer Sprache:",
 		
-		"master-thesis-title": "Entwicklung eines Programms zur numerischen Lösung der Maxwell-Gleichungen für das elektromagnetische Feld eines Metalls, das einem Hochleistungslaserstrahl im Vakuum-Metall-System ausgesetzt ist.",
+		"master-thesis-title": "Entwicklung eines Programms zur numerischen Lösung der Maxwell-Gleichungen für das elektromagnetische Feld eines Metalls, das einem Hochleistungslaserstrahl im Vakuum-Metall-System ausgesetzt ist",
 		"master-thesis-description": "Ziel der Diplomarbeit war es, die Veränderung des elektromagnetischen Feldes im Zusammenhang mit einem hochintensiven gepulsten Laser darzustellen. Um Veränderungen in der Dynamik elektromagnetischer Felder zu berechnen, wurden die Maxwell-Gleichungen und die Randbedingungen für elektrische und magnetische Felder an der Metall-Vakuum-Grenze verwendet. Die Berechnung erfolgte in der Darstellung des Vektorpotentials A für die s- und p-Polarisation des einfallenden Laserlichtstrahls. Die Berechnungen wurden mit einem Programm durchgeführt, das in Python geschrieben wurde. Die Ergebnisse werden in Diagrammen mit einer Benutzeroberfläche präsentiert, die mit dem Qt-Grafikpaket erstellt wurde. Die Arbeit konzentriert sich auf die Darstellung der Methode zur Lösung der Maxwell-Gleichungen für s- und p-Polarisationen. Die funktionalen Spezifikationen der Anwendung und Lösungen zu technischen Fragen des Programms werden beschrieben. Der Abschnitt zu den Ergebnissen zeigt Diagramme, die die Dämpfung des Wellenvektorpotentials und dessen Amplitude für beide Polarisationen darstellen. Statistiken zur technischen Implementierung des Programms werden ebenfalls vorgestellt. Das Benutzerhandbuch ermöglicht es, den korrekten Umgang mit dem Programm zu erlernen.",
 		"master-thesis-credits1": "Universität Łódź 2023",
         "master-thesis-credits2": "Betreuer: Dr. hab. inż. Krzysztof Warda",
@@ -262,7 +288,7 @@ const translations = {
 		"master-result6": "Die Abhängigkeit des Quadrats des Moduls des Verhältnisses der Amplituden der Z- und X-Komponenten vom Einfallswinkel des Laserstrahls ist eine zunehmende Funktion und erreicht ihren größten Wert bei einem Winkel von 90 Grad.",
 		"master-result7": "Benutzer kann die App verwenden, um die EMP-Änderung zu sehen, verschiedene Eingabedaten eingeben, einschließlich des Zeitbereichs, Z und X und den Vergleich der EMP verschiedener Metalle anzeigen.",
 		
-		"comparison-title": "Entwicklung eines Programms zum Vergleich der Runge-Kutta- und Runge-Kutta-Fehlberg-Methoden verschiedener Ordnungen basierend auf der analytischen Lösung des Kernzerfallsproblems.",
+		"comparison-title": "Entwicklung eines Programms zum Vergleich der Runge-Kutta- und Runge-Kutta-Fehlberg-Methoden verschiedener Ordnungen basierend auf der analytischen Lösung des Kernzerfallsproblems",
         "comparison-description": "Ziel dieses Projekts war es, die Runge-Kutta-Methoden der Ordnung 1, 2, 3, 4, 5, 6 und die Runge-Kutta-Fehlberg-Methoden der Ordnung 5, 6, 7, 8 zu vergleichen. Der Vergleich basierte auf dem analytisch gelösten Problem des nuklearen Zerfalls. Das Diagramm zeigte Lösungen der Differentialgleichung, den Unterschied zwischen der analytischen und der numerischen Lösung sowie die minimalen, maximalen und durchschnittlichen Vergleichswerte. Alle Diagramme wurden mit der Matplotlib-Python-Bibliothek erstellt. Die benutzerfreundliche GUI wurde mit PyQt6 entwickelt.",
         "comparison-credits": "Eigenständiges Projekt, 06.2024 - 07.2024.",
         "comparison-gallery-img1-caption": "Numerisch und analytisch berechnete Funktion in großem Zeitmaßstab. Dieses Diagramm beweist die Richtigkeit der Methoden.",
@@ -298,8 +324,20 @@ const translations = {
     	"sdw-result3": "Für das Projekt Vergleich von RK und FRK wurde die Sphinx RTD-Code-Dokumentation hinzugefügt. Der Benutzer kann über den Link auf der Sphinx-Hauptseite zur Projektseite zurückkehren.",
     	"sdw-result4": "Die Webseite ist für die kontinuierliche Entwicklung zusammen mit der Portfolio-Webseite gedacht.",
     	"sdw-code": "Siehe die Webseite: ",
+
+		"faw-title": "Fraktal-Kunst-Website",
+    	"project5-date": "Aug 2024 (erste Version)",
+    	"faw-description": "Die im Rahmen dieses Projekts erstellte Website wurde entwickelt, um meine Errungenschaften in der digitalen Kunst zu präsentieren. Die Besucher können dort verschiedene Entwürfe und Gemälde sehen. Obwohl die erste Version der Website abgeschlossen ist, wurden noch nicht alle fertigen Gemälde gezeigt, da eine bevorstehende Entscheidung über deren Präsentation ansteht. Weitere Updates folgen in Kürze.",
+    	"faw-gallery-img1-caption": "Hauptseite der Website.",
+    	"faw-gallery-img2-caption": "Seite über das Gemälde „Inspiration“.",
+    	"faw-gallery-img3-caption": "Seite über Entwürfe der Mandelbrot-Menge.",
+    	"faw-gallery-img4-caption": "Seite über Entwürfe der Julia-Menge.",
+    	"faw-result1": "Die Website zeigt meine Errungenschaften in der digitalen Kunst und präsentiert Gemälde und Entwürfe. Es gibt auch Details zu verschiedenen Werken und meiner Geschichte, die sich auf Fraktalkunst konzentriert.",
+    	"faw-result2": "Die Website kann den Benutzer auf mein Instagram-Konto mit weiteren Entwürfen weiterleiten.",
+    	"faw-result3": "Die Website ist für die kontinuierliche Entwicklung gedacht, da meine digitale Kunstsammlung wächst.",
+    	"faw-code": "Folgen Sie dem Link, um die Website zu besuchen oder ihre Dokumentation zu überprüfen: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.4.2. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
