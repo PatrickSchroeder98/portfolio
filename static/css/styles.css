@@ -119,12 +119,18 @@ body {
     color: #666;
 }
 
-.portfolio-item a {
+.view-more {
     display: inline-block;
     margin-top: 10px;
-    color: #333;
+    padding: 10px 15px;
+    background-color: #666;
+    color: #fff;
     text-decoration: none;
-    font-weight: bold;
+    border-radius: 4px;
+}
+
+.view-more:hover {
+    background-color: #555;
 }
 
 .contact-section {

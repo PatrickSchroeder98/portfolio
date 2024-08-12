@@ -109,7 +109,7 @@ const translations = {
 		"faw-result3": "The website is meant for continous development as my digital art collection is growing.",
 		"faw-code": "Follow the link to visit the website or check it's documentation: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -222,7 +222,7 @@ const translations = {
     	"faw-result3": "Strona jest przeznaczona do ciągłego rozwoju, ponieważ moja kolekcja sztuki cyfrowej rośnie.",
     	"faw-code": "Skorzystaj z linku, aby odwiedzić stronę internetową lub sprawdzić jej dokumentację: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -337,7 +337,7 @@ const translations = {
     	"faw-result3": "Die Website ist für die kontinuierliche Entwicklung gedacht, da meine digitale Kunstsammlung wächst.",
     	"faw-code": "Folgen Sie dem Link, um die Website zu besuchen oder ihre Dokumentation zu überprüfen: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
