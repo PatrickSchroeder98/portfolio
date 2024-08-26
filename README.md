@@ -3,6 +3,7 @@ This is my portfolio website. You can see it by clicking this link:
 [patrickschroeder98.github.io/portfolio](https://patrickschroeder98.github.io/portfolio/)
 
 Changelog:  
+1.6.0 - added mcl page, zoomed icons  
 1.5.2 - updated icons, added link to Trello board  
 1.5.1 - added new 'View more' button, added icon with link to SDW  
 1.5.0 - added Fractal Art Website project page  

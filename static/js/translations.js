@@ -109,7 +109,14 @@ const translations = {
 		"faw-result3": "The website is meant for continous development as my digital art collection is growing.",
 		"faw-code": "Follow the link to visit the website or check it's documentation: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"mcl-title": "Development of C++ Library for Matrix Calculations.",
+		"project6-date": "Aug 2024 - Present",
+		"mcl-description": `The "Development of C++ Library for Matrix Calculations" project aims to create a robust, efficient, and versatile C++ library designed specifically for matrix operations. This library will provide essential functionalities for handling matrix calculations, integrity checks, and file operations. The goal is to deliver a high-performance library that can be easily integrated into other C++ projects, supporting developers in implementing complex matrix operations without the need for a graphical user interface (GUI).`,
+		"mcl-credits": "Self paced project, work in progress.",
+		"mcl-gallery-img1-caption": "An example result in console.",
+		"mcl-gallery-img2-caption": "Project scope.",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -193,7 +200,7 @@ const translations = {
         "comparison-result5": "Funkcjonalności aplikacji pozwalają użytkownikowi na obliczenie: rozwiązania rozpadu jądrowego, porównania rozwiązań numerycznych, czyli różnicy między rozwiązaniem analitycznym a numerycznym oraz danych statystycznych, które są wartościami minimalnymi, maksymalnymi i średnimi tej różnicy dla każdej z używanych metod.",
         "comparison-result6": "Użytkownik może wybrać dane wejściowe: początek, koniec i deltę okresu czasu, początkową ilość jąder atomowych, stałą tau i używane metody numeryczne.",
         "comparison-result7": "Plik .csv pozwala użytkownikowi zapisać obliczone dane w przejrzystej formie.",
-        "source-code": "Zobacz kod źródłowy oraz dokimentację:",
+        "source-code": "Zobacz kod źródłowy oraz dokumentację:",
 
 		"sdw-title": "Strona Dokumentacji Oprogramowania",
     	"sdw-description": "Celem tego projektu było stworzenie strony internetowej, która mogła prezentować dokumentację oprogramowania projektów. Strona została powiązana ze stroną Portfolio, tworząc małą sieć, co było ważnym krokiem oprócz samego tworzenia strony. Podobnie jak w przypadku portfolio, do wdrożenia tego projektu użyto usługi GitHub Pages. Strona Dokumentacji Oprogramowania jest przeznaczona do ciągłego rozwoju, ponieważ powinna być aktualizowana wraz z tworzeniem nowych projektów.",
@@ -222,7 +229,14 @@ const translations = {
     	"faw-result3": "Strona jest przeznaczona do ciągłego rozwoju, ponieważ moja kolekcja sztuki cyfrowej rośnie.",
     	"faw-code": "Skorzystaj z linku, aby odwiedzić stronę internetową lub sprawdzić jej dokumentację: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"mcl-title": "Rozwój Biblioteki C++ do Obliczeń Macierzowych",
+    	"project6-date": "Sie 2024 - Obecnie",
+    	"mcl-description": `Projekt "Rozwój Biblioteki C++ do Obliczeń Macierzowych" ma na celu stworzenie solidnej, wydajnej i wszechstronnej biblioteki C++ przeznaczonej specjalnie do operacji na macierzach. Ta biblioteka zapewni podstawowe funkcjonalności do obsługi obliczeń macierzowych, kontroli integralności i operacji na plikach. Celem jest dostarczenie biblioteki o wysokiej wydajności, którą można łatwo zintegrować z innymi projektami C++, wspierając deweloperów w implementacji złożonych operacji na macierzach bez potrzeby interfejsu graficznego (GUI).`,
+    	"mcl-credits": "Projekt indywidualny, prace w toku.",
+    	"mcl-gallery-img1-caption": "Przykładowy wynik w konsoli.",
+    	"mcl-gallery-img2-caption": "Zakres projektu.",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -337,7 +351,14 @@ const translations = {
     	"faw-result3": "Die Website ist für die kontinuierliche Entwicklung gedacht, da meine digitale Kunstsammlung wächst.",
     	"faw-code": "Folgen Sie dem Link, um die Website zu besuchen oder ihre Dokumentation zu überprüfen: ",
 		
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.5.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"mcl-title": "Entwicklung einer C++-Bibliothek für Matrixberechnungen",
+    	"project6-date": "Aug 2024 - Gegenwart",
+    	"mcl-description": `Das Projekt "Entwicklung einer C++-Bibliothek für Matrixberechnungen" zielt darauf ab, eine robuste, effiziente und vielseitige C++-Bibliothek speziell für Matrixoperationen zu erstellen. Diese Bibliothek wird grundlegende Funktionen für die Handhabung von Matrixberechnungen, Integritätsprüfungen und Dateioperationen bieten. Das Ziel ist es, eine leistungsstarke Bibliothek bereitzustellen, die einfach in andere C++-Projekte integriert werden kann und Entwicklern dabei hilft, komplexe Matrixoperationen ohne die Notwendigkeit einer grafischen Benutzeroberfläche (GUI) zu implementieren.`,
+		"mcl-credits": "Eigenständiges Projekt, in Arbeit.",
+    	"mcl-gallery-img1-caption": "Ein Beispielergebnis in der Konsole.",
+    	"mcl-gallery-img2-caption": "Projektumfang.",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
