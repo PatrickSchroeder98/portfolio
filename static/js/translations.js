@@ -110,13 +110,23 @@ const translations = {
 		"faw-code": "Follow the link to visit the website or check it's documentation: ",
 
 		"mcl-title": "Development of C++ Library for Matrix Calculations.",
-		"project6-date": "Aug 2024 - Present",
+		"project6-date": "Aug 2024 - Sep 2024",
 		"mcl-description": `The "Development of C++ Library for Matrix Calculations" project aims to create a robust, efficient, and versatile C++ library designed specifically for matrix operations. This library will provide essential functionalities for handling matrix calculations, integrity checks, and file operations. The goal is to deliver a high-performance library that can be easily integrated into other C++ projects, supporting developers in implementing complex matrix operations without the need for a graphical user interface (GUI).`,
-		"mcl-credits": "Self paced project, work in progress.",
-		"mcl-gallery-img1-caption": "An example result in console.",
-		"mcl-gallery-img2-caption": "Project scope.",
+		"mcl-credits": "Self paced project, 08.2024 - 09.2024.",
+		"mcl-gallery-img1-caption": "Matrix addition.",
+		"mcl-gallery-img2-caption": "Matrix subtraction.",
+		"mcl-gallery-img3-caption": "Matrix multiplication by scalar.",
+		"mcl-gallery-img4-caption": "Matrix transposition.",
+		"mcl-gallery-img5-caption": "Matrix multiplication.",
+		"mcl-gallery-img6-caption": "Project scope.",
+		"mcl-result1": "The library provides user with methods for performing various calculations on matrices.",
+		"mcl-result2": "The MVP of library have functionalities of matrix addition, subtraction, transposition and multiplication by another matrix and scalar. Further updates are planned.",
+		"mcl-result3": "User can use API class for intuitive communication with library.",
+		"mcl-result4": "The library provides methods for loading matrix from file and saving matrix to file.",
+		"mcl-result5": "Methods allow also for calculating determinant of given matrix and for extracting minor matrices.",
+		"mcl-result6": "The CppUnitTestFramework has been used for testing. Multiple tests are ensuring the correctness of methods.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -230,13 +240,24 @@ const translations = {
     	"faw-code": "Skorzystaj z linku, aby odwiedzić stronę internetową lub sprawdzić jej dokumentację: ",
 		
 		"mcl-title": "Rozwój Biblioteki C++ do Obliczeń Macierzowych",
-    	"project6-date": "Sie 2024 - Obecnie",
+    	"project6-date": "Sie 2024 - Wrz 2024",
     	"mcl-description": `Projekt "Rozwój Biblioteki C++ do Obliczeń Macierzowych" ma na celu stworzenie solidnej, wydajnej i wszechstronnej biblioteki C++ przeznaczonej specjalnie do operacji na macierzach. Ta biblioteka zapewni podstawowe funkcjonalności do obsługi obliczeń macierzowych, kontroli integralności i operacji na plikach. Celem jest dostarczenie biblioteki o wysokiej wydajności, którą można łatwo zintegrować z innymi projektami C++, wspierając deweloperów w implementacji złożonych operacji na macierzach bez potrzeby interfejsu graficznego (GUI).`,
-    	"mcl-credits": "Projekt indywidualny, prace w toku.",
-    	"mcl-gallery-img1-caption": "Przykładowy wynik w konsoli.",
-    	"mcl-gallery-img2-caption": "Zakres projektu.",
+		"mcl-credits": "Projekt wykonywany samodzielnie, 08.2024 - 09.2024.",
+    	"mcl-gallery-img1-caption": "Dodawanie macierzy.",
+		"mcl-gallery-img2-caption": "Odejmowanie macierzy.",
+    	"mcl-gallery-img3-caption": "Mnożenie macierzy przez skalar.",
+    	"mcl-gallery-img4-caption": "Transpozycja macierzy.",
+    	"mcl-gallery-img5-caption": "Mnożenie macierzy.",
+    	"mcl-gallery-img6-caption": "Zakres projektu.",
+    	"mcl-result1": "Biblioteka zapewnia użytkownikowi metody do wykonywania różnych obliczeń na macierzach.",
+    	"mcl-result2": "MVP biblioteki posiada funkcje dodawania, odejmowania, transpozycji oraz mnożenia macierzy przez inną macierz i skalar. Planowane są dalsze aktualizacje.",
+    	"mcl-result3": "Użytkownik może korzystać z klasy API w celu intuicyjnej komunikacji z biblioteką.",
+    	"mcl-result4": "Biblioteka udostępnia metody do wczytywania macierzy z pliku oraz zapisywania macierzy do pliku.",
+    	"mcl-result5": "Metody pozwalają również na obliczanie wyznacznika danej macierzy i wyodrębnianie macierzy minorowych.",
+    	"mcl-result6": "Do testowania użyto CppUnitTestFramework. Wiele testów zapewnia poprawność metod.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -352,13 +373,24 @@ const translations = {
     	"faw-code": "Folgen Sie dem Link, um die Website zu besuchen oder ihre Dokumentation zu überprüfen: ",
 		
 		"mcl-title": "Entwicklung einer C++-Bibliothek für Matrixberechnungen",
-    	"project6-date": "Aug 2024 - Gegenwart",
+    	"project6-date": "Aug 2024 - Sep 2024",
     	"mcl-description": `Das Projekt "Entwicklung einer C++-Bibliothek für Matrixberechnungen" zielt darauf ab, eine robuste, effiziente und vielseitige C++-Bibliothek speziell für Matrixoperationen zu erstellen. Diese Bibliothek wird grundlegende Funktionen für die Handhabung von Matrixberechnungen, Integritätsprüfungen und Dateioperationen bieten. Das Ziel ist es, eine leistungsstarke Bibliothek bereitzustellen, die einfach in andere C++-Projekte integriert werden kann und Entwicklern dabei hilft, komplexe Matrixoperationen ohne die Notwendigkeit einer grafischen Benutzeroberfläche (GUI) zu implementieren.`,
-		"mcl-credits": "Eigenständiges Projekt, in Arbeit.",
-    	"mcl-gallery-img1-caption": "Ein Beispielergebnis in der Konsole.",
-    	"mcl-gallery-img2-caption": "Projektumfang.",
+		"mcl-credits": "Eigenständiges Projekt, 08.2024 - 09.2024.",
+    	"mcl-gallery-img1-caption": "Matrixaddition.",
+    	"mcl-gallery-img2-caption": "Matrixsubtraktion.",
+    	"mcl-gallery-img3-caption": "Multiplikation der Matrix mit einem Skalar.",
+    	"mcl-gallery-img4-caption": "Matrixtransposition.",
+    	"mcl-gallery-img5-caption": "Matrixmultiplikation.",
+    	"mcl-gallery-img6-caption": "Projektumfang.",
+    	"mcl-result1": "Die Bibliothek bietet dem Benutzer Methoden zur Durchführung verschiedener Berechnungen mit Matrizen.",
+    	"mcl-result2": "Das MVP der Bibliothek verfügt über Funktionen zur Addition, Subtraktion, Transposition und Multiplikation von Matrizen mit einer anderen Matrix und einem Skalar. Weitere Updates sind geplant.",
+		"mcl-result3": "Der Benutzer kann die API-Klasse für eine intuitive Kommunikation mit der Bibliothek verwenden.",
+    	"mcl-result4": "Die Bibliothek bietet Methoden zum Laden und Speichern von Matrizen aus bzw. in Dateien.",
+    	"mcl-result5": "Die Methoden ermöglichen auch die Berechnung der Determinante einer gegebenen Matrix und das Extrahieren von Minormatrizen.",
+		"mcl-result6": "CppUnitTestFramework wurde für die Tests verwendet. Mehrere Tests gewährleisten die Korrektheit der Methoden.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
