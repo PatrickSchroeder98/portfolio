@@ -3,6 +3,7 @@ This is my portfolio website. You can see it by clicking this link:
 [patrickschroeder98.github.io/portfolio](https://patrickschroeder98.github.io/portfolio/)
 
 Changelog:  
+1.6.2 - updated MCL description  
 1.6.1 - updated MCL page  
 1.6.0 - added MCL page, zoomed icons  
 1.5.2 - updated icons, added link to Trello board  

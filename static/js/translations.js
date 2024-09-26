@@ -111,7 +111,7 @@ const translations = {
 
 		"mcl-title": "Development of C++ Library for Matrix Calculations.",
 		"project6-date": "Aug 2024 - Sep 2024",
-		"mcl-description": `The "Development of C++ Library for Matrix Calculations" project aims to create a robust, efficient, and versatile C++ library designed specifically for matrix operations. This library will provide essential functionalities for handling matrix calculations, integrity checks, and file operations. The goal is to deliver a high-performance library that can be easily integrated into other C++ projects, supporting developers in implementing complex matrix operations without the need for a graphical user interface (GUI).`,
+		"mcl-description": `The Matrix Calculations Library is a lightweight C++ library that provides an API for performing basic matrix operations. This project includes operations such as matrix addition, subtraction, multiplication (both by scalar and between matrices), and transposition. It is multithreaded for better performance in handling larger matrices. The library also supports exception handling for invalid operations like dimension mismatches. This project is designed with a clear and easy-to-use API, allowing you to perform matrix operations through simple method calls. The matrix operations are optimized for both correctness and performance, including threading support for larger matrix computations.`,
 		"mcl-credits": "Self paced project, 08.2024 - 09.2024.",
 		"mcl-gallery-img1-caption": "Matrix addition.",
 		"mcl-gallery-img2-caption": "Matrix subtraction.",
@@ -126,7 +126,7 @@ const translations = {
 		"mcl-result5": "Methods allow also for calculating determinant of given matrix and for extracting minor matrices.",
 		"mcl-result6": "The CppUnitTestFramework has been used for testing. Multiple tests are ensuring the correctness of methods.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.2. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -241,7 +241,7 @@ const translations = {
 		
 		"mcl-title": "Rozwój Biblioteki C++ do Obliczeń Macierzowych",
     	"project6-date": "Sie 2024 - Wrz 2024",
-    	"mcl-description": `Projekt "Rozwój Biblioteki C++ do Obliczeń Macierzowych" ma na celu stworzenie solidnej, wydajnej i wszechstronnej biblioteki C++ przeznaczonej specjalnie do operacji na macierzach. Ta biblioteka zapewni podstawowe funkcjonalności do obsługi obliczeń macierzowych, kontroli integralności i operacji na plikach. Celem jest dostarczenie biblioteki o wysokiej wydajności, którą można łatwo zintegrować z innymi projektami C++, wspierając deweloperów w implementacji złożonych operacji na macierzach bez potrzeby interfejsu graficznego (GUI).`,
+    	"mcl-description": `Biblioteka Obliczeń Macierzowych to lekka biblioteka C++, która udostępnia interfejs API do wykonywania podstawowych operacji na macierzach. Projekt ten obejmuje operacje takie jak dodawanie, odejmowanie, mnożenie (zarówno przez skalar, jak i między macierzami) oraz transpozycję na macierzy. Jest wielowątkowa, co zapewnia lepszą wydajność w obsłudze większych macierzy. Biblioteka obsługuje również obsługę wyjątków w przypadku nieprawidłowych operacji, takich jak niedopasowanie wymiarów. Projekt ten został zaprojektowany z przejrzystym i łatwym w użyciu interfejsem API, umożliwiającym wykonywanie operacji na macierzach poprzez proste wywołania metod. Operacje na macierzach są zoptymalizowane zarówno pod kątem poprawności, jak i wydajności, łącznie z obsługą wątków w przypadku obliczeń na większych macierzach.`,
 		"mcl-credits": "Projekt wykonywany samodzielnie, 08.2024 - 09.2024.",
     	"mcl-gallery-img1-caption": "Dodawanie macierzy.",
 		"mcl-gallery-img2-caption": "Odejmowanie macierzy.",
@@ -257,7 +257,7 @@ const translations = {
     	"mcl-result6": "Do testowania użyto CppUnitTestFramework. Wiele testów zapewnia poprawność metod.",
 
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.2. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -374,7 +374,7 @@ const translations = {
 		
 		"mcl-title": "Entwicklung einer C++-Bibliothek für Matrixberechnungen",
     	"project6-date": "Aug 2024 - Sep 2024",
-    	"mcl-description": `Das Projekt "Entwicklung einer C++-Bibliothek für Matrixberechnungen" zielt darauf ab, eine robuste, effiziente und vielseitige C++-Bibliothek speziell für Matrixoperationen zu erstellen. Diese Bibliothek wird grundlegende Funktionen für die Handhabung von Matrixberechnungen, Integritätsprüfungen und Dateioperationen bieten. Das Ziel ist es, eine leistungsstarke Bibliothek bereitzustellen, die einfach in andere C++-Projekte integriert werden kann und Entwicklern dabei hilft, komplexe Matrixoperationen ohne die Notwendigkeit einer grafischen Benutzeroberfläche (GUI) zu implementieren.`,
+    	"mcl-description": `Die Matrix Calculations Library ist eine leichtgewichtige C++-Bibliothek, die eine API zum Durchführen grundlegender Matrixoperationen bereitstellt. Dieses Projekt umfasst Operationen wie Matrixaddition, Subtraktion, Multiplikation (sowohl mit Skalar als auch zwischen Matrizen) und Transposition. Für eine bessere Leistung bei der Verarbeitung größerer Matrizen ist es multithreaded. Die Bibliothek unterstützt auch die Ausnahmebehandlung für ungültige Vorgänge wie Dimensionskonflikte. Dieses Projekt ist mit einer klaren und benutzerfreundlichen API ausgestattet, die es Ihnen ermöglicht, Matrixoperationen über einfache Methodenaufrufe durchzuführen. Die Matrixoperationen sind sowohl auf Korrektheit als auch auf Leistung optimiert, einschließlich Threading-Unterstützung für größere Matrixberechnungen.`,
 		"mcl-credits": "Eigenständiges Projekt, 08.2024 - 09.2024.",
     	"mcl-gallery-img1-caption": "Matrixaddition.",
     	"mcl-gallery-img2-caption": "Matrixsubtraktion.",
@@ -390,7 +390,7 @@ const translations = {
 		"mcl-result6": "CppUnitTestFramework wurde für die Tests verwendet. Mehrere Tests gewährleisten die Korrektheit der Methoden.",
 
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.2. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
