@@ -1,8 +1,38 @@
 # Portfolio
-This is my portfolio website. You can see it by clicking this link:  
-[patrickschroeder98.github.io/portfolio](https://patrickschroeder98.github.io/portfolio/)
 
-Changelog:  
+The aim of this project is to create a website to showcase various IT projects. It also contain contact data. The website is available in 3 different languages: English, Polish and German.
+
+## Features
+
+- **Personal Advertisement:** View the information about me and contact information.
+- **Personal Projects Showcase:** View the descriptions, images and results of my projects.
+- **Responsive Design:** The website is optimized for various screen sizes and devices.
+- **Dynamic Image Scaling:** The pages scale proportionally, ensuring a clean layout with no unnecessary white spaces.
+
+## Pages
+- **Main page:** Contains the welcome message, projects titles and contact information.
+- **Project page:** View project description, images, results and any extrnal links.
+
+
+## Language
+   - The website is available in English, Polish and German language.
+
+## Technologies Used
+
+- **HTML5**: For the structure and layout of the web pages.
+- **CSS3**: For styling and responsiveness of the website.
+- **JavaScript**: For dynamic functionality, including version number in the footer.
+
+## Deployment  
+
+The website has been deployed using GitHub Pages and can be accessed [here](https://patrickschroeder98.github.io/portfolio/).
+
+## Documentation  
+
+The full documentation of project can be found on my [Software Documentation Website](https://patrickschroeder98.github.io/software_documentation/portfolio_docs/index.html) or alternatively in the [SDW documentation repository](https://github.com/PatrickSchroeder98/software_documentation/tree/main/portfolio_docs).
+
+ 
+## Changelog:  
 1.6.2 - updated MCL description  
 1.6.1 - updated MCL page  
 1.6.0 - added MCL page, zoomed icons  
