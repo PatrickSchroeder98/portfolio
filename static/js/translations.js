@@ -123,6 +123,8 @@ const translations = {
 		"mcl-gallery-img8-caption": "Cutting a minor matrix.",
 		"mcl-gallery-img9-caption": "Calculating a determinant of matrix.",
 		"mcl-gallery-img10-caption": "Program can save matrix to file.",
+		"mcl-gallery-img11-caption": "Getting sizes of matrix.",
+		"mcl-gallery-img12-caption": "Calculating an inverted matrix.",
 		"mcl-result1": "The library provides user with methods for performing various calculations on matrices.",
 		"mcl-result2": "The MVP of library have functionalities of matrix addition, subtraction, transposition and multiplication by another matrix and scalar. Further updates are planned.",
 		"mcl-result3": "User can use API class for intuitive communication with library.",
@@ -130,6 +132,10 @@ const translations = {
 		"mcl-result5": "Methods allow also for calculating determinant of given matrix and for extracting minor matrices.",
 		"mcl-result6": "The CppUnitTestFramework has been used for testing. Multiple tests are ensuring the correctness of methods.",
 		
+		"wfra-title": "Warhammer Fantasy Roleplay Application",
+		"project7-date": "Oct 2024 - Present",
+		"wfra-description": "The aim of this project is to create an application that can support players in Warhammer Fantasy Roleplay game. The program will allow users to save their characters, equipment and statistics. It will also have a module for creating a new character. Future improvements may provide a system for battles simulations.",
+		"wfra-credits": "Self paced project, work in progress.",
 
 		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.3. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
@@ -258,6 +264,8 @@ const translations = {
 		"mcl-gallery-img8-caption": "Wycięcie macierzy minorowej.",
 		"mcl-gallery-img9-caption": "Obliczanie wyznacznika macierzy.",
 		"mcl-gallery-img10-caption": "Program może zapisać macierz do pliku.",
+		"mcl-gallery-img11-caption": "Uzyskiwanie wymiarów macierzy.",
+		"mcl-gallery-img12-caption": "Obliczanie macierzy odwróconej.",
     	"mcl-result1": "Biblioteka zapewnia użytkownikowi metody do wykonywania różnych obliczeń na macierzach.",
     	"mcl-result2": "MVP biblioteki posiada funkcje dodawania, odejmowania, transpozycji oraz mnożenia macierzy przez inną macierz i skalar. Planowane są dalsze aktualizacje.",
     	"mcl-result3": "Użytkownik może korzystać z klasy API w celu intuicyjnej komunikacji z biblioteką.",
@@ -395,6 +403,8 @@ const translations = {
 		"mcl-gallery-img8-caption": "Das Extrahieren von Minormatrizen.",
 		"mcl-gallery-img9-caption": "Berechnung der Determinante einer Matrix.",
 		"mcl-gallery-img10-caption": "Das Programm kann die Matrix in einer Datei speichern.",
+		"mcl-gallery-img11-caption": "Ermitteln der Dimensionen einer Matrix.",
+		"mcl-gallery-img12-caption": "Berechnung der invertierten Matrix.",
     	"mcl-result1": "Die Bibliothek bietet dem Benutzer Methoden zur Durchführung verschiedener Berechnungen mit Matrizen.",
     	"mcl-result2": "Das MVP der Bibliothek verfügt über Funktionen zur Addition, Subtraktion, Transposition und Multiplikation von Matrizen mit einer anderen Matrix und einem Skalar. Weitere Updates sind geplant.",
 		"mcl-result3": "Der Benutzer kann die API-Klasse für eine intuitive Kommunikation mit der Bibliothek verwenden.",
