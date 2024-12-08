@@ -111,7 +111,7 @@ const translations = {
 
 		"mcl-title": "Development of C++ Library for Matrix Calculations",
 		"project6-date": "Aug 2024 - Nov 2024",
-		"mcl-description": `The Matrix Calculations Library is a lightweight C++ library that provides an API for performing basic matrix operations. This project includes operations such as matrix addition, subtraction, multiplication (both by scalar and between matrices), and transposition. It is multithreaded for better performance in handling larger matrices. The library also supports exception handling for invalid operations like dimension mismatches. This project is designed with a clear and easy-to-use API, allowing you to perform matrix operations through simple method calls. The matrix operations are optimized for both correctness and performance, including threading support for larger matrix computations.`,
+		"mcl-description": `The Matrix Calculations Library is a lightweight C++ library that provides an API for performing basic matrix operations. This project includes operations such as matrix addition, subtraction, multiplication by scalar and between matrices, transposition and inversion. It is multithreaded for better performance in handling larger matrices. The library also supports exception handling for invalid operations like dimension mismatches. This project is designed with a clear and easy-to-use API, allowing you to perform matrix operations through simple method calls. The matrix operations are optimized for both correctness and performance, including threading support for larger matrix computations.`,
 		"mcl-credits": "Self paced project, 08.2024 - 11.2024.",
 		"mcl-gallery-img1-caption": "Matrix addition.",
 		"mcl-gallery-img2-caption": "Matrix subtraction.",
@@ -126,7 +126,7 @@ const translations = {
 		"mcl-gallery-img11-caption": "Getting sizes of matrix.",
 		"mcl-gallery-img12-caption": "Calculating an inverted matrix.",
 		"mcl-result1": "The library provides user with methods for performing various calculations on matrices.",
-		"mcl-result2": "The MVP of library have functionalities of matrix addition, subtraction, transposition and multiplication by another matrix and scalar. Further updates are planned.",
+		"mcl-result2": "The library have, for example, functionalities of matrix addition, subtraction, transposition, inversion and multiplication by another matrix and scalar.",
 		"mcl-result3": "User can use API class for intuitive communication with library.",
 		"mcl-result4": "The library provides methods for loading matrix from file and saving matrix to file.",
 		"mcl-result5": "Methods allow also for calculating determinant of given matrix and for extracting minor matrices.",
@@ -134,10 +134,12 @@ const translations = {
 		
 		"wfra-title": "Warhammer Fantasy Roleplay Application",
 		"project7-date": "Oct 2024 - Present",
-		"wfra-description": "The aim of this project is to create an application that can support players in Warhammer Fantasy Roleplay game. The program will allow users to save their characters, equipment and statistics. It will also have a module for creating a new character. Future improvements may provide a system for battles simulations.",
+		"wfra-description": "The aim of this project is to create an application to support players of the Warhammer Fantasy Roleplay game. The program will allow users to save their characters, equipment, and statistics. It will also include a module for creating new characters. Users will be able to modify their characters to reflect changes during the game. The application will feature registration and login functionality. Future improvements may include a system for battle simulations.",
 		"wfra-credits": "Self paced project, work in progress.",
+		"wfra-gallery-img1-caption": "Main page.",
+		"wfra-gallery-img2-caption": "Login page.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.3. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -252,7 +254,7 @@ const translations = {
 		
 		"mcl-title": "Rozwój Biblioteki C++ do Obliczeń Macierzowych",
     	"project6-date": "Sie 2024 - Lis 2024",
-    	"mcl-description": `Biblioteka Obliczeń Macierzowych to lekka biblioteka C++, która udostępnia interfejs API do wykonywania podstawowych operacji na macierzach. Projekt ten obejmuje operacje takie jak dodawanie, odejmowanie, mnożenie (zarówno przez skalar, jak i między macierzami) oraz transpozycję na macierzy. Jest wielowątkowa, co zapewnia lepszą wydajność w obsłudze większych macierzy. Biblioteka obsługuje również obsługę wyjątków w przypadku nieprawidłowych operacji, takich jak niedopasowanie wymiarów. Projekt ten został zaprojektowany z przejrzystym i łatwym w użyciu interfejsem API, umożliwiającym wykonywanie operacji na macierzach poprzez proste wywołania metod. Operacje na macierzach są zoptymalizowane zarówno pod kątem poprawności, jak i wydajności, łącznie z obsługą wątków w przypadku obliczeń na większych macierzach.`,
+    	"mcl-description": `Biblioteka Obliczeń Macierzowych to lekka biblioteka C++, która udostępnia interfejs API do wykonywania podstawowych operacji na macierzach. Projekt ten obejmuje operacje takie jak dodawanie, odejmowanie, mnożenie przez skalar, jak i między macierzami, transpozycję oraz odwracanie macierzy. Jest wielowątkowa, co zapewnia lepszą wydajność w obsłudze większych macierzy. Biblioteka obsługuje również obsługę wyjątków w przypadku nieprawidłowych operacji, takich jak niedopasowanie wymiarów. Projekt ten został zaprojektowany z przejrzystym i łatwym w użyciu interfejsem API, umożliwiającym wykonywanie operacji na macierzach poprzez proste wywołania metod. Operacje na macierzach są zoptymalizowane zarówno pod kątem poprawności, jak i wydajności, łącznie z obsługą wątków w przypadku obliczeń na większych macierzach.`,
 		"mcl-credits": "Projekt wykonywany samodzielnie, 08.2024 - 11.2024.",
     	"mcl-gallery-img1-caption": "Dodawanie macierzy.",
 		"mcl-gallery-img2-caption": "Odejmowanie macierzy.",
@@ -267,14 +269,20 @@ const translations = {
 		"mcl-gallery-img11-caption": "Uzyskiwanie wymiarów macierzy.",
 		"mcl-gallery-img12-caption": "Obliczanie macierzy odwróconej.",
     	"mcl-result1": "Biblioteka zapewnia użytkownikowi metody do wykonywania różnych obliczeń na macierzach.",
-    	"mcl-result2": "MVP biblioteki posiada funkcje dodawania, odejmowania, transpozycji oraz mnożenia macierzy przez inną macierz i skalar. Planowane są dalsze aktualizacje.",
+    	"mcl-result2": "Biblioteka posiada m.in. funkcjonalności dodawania, odejmowania, transpozycji, inwersji i mnożenia macierzy przez inną macierz i skalar.",
     	"mcl-result3": "Użytkownik może korzystać z klasy API w celu intuicyjnej komunikacji z biblioteką.",
     	"mcl-result4": "Biblioteka udostępnia metody do wczytywania macierzy z pliku oraz zapisywania macierzy do pliku.",
     	"mcl-result5": "Metody pozwalają również na obliczanie wyznacznika danej macierzy i wyodrębnianie macierzy minorowych.",
     	"mcl-result6": "Do testowania użyto CppUnitTestFramework. Wiele testów zapewnia poprawność metod.",
 
+		"wfra-title": "Aplikacja do Warhammer Fantasy Roleplay",
+		"project7-date": "Paź 2024 - Obecnie",
+		"wfra-description": "Celem tego projektu jest stworzenie aplikacji wspierającej graczy w Warhammer Fantasy Roleplay. Program umożliwi użytkownikom zapisywanie postaci, wyposażenia i statystyk. Znajdzie się w nim także moduł umożliwiający tworzenie nowych postaci. Użytkownicy będą mogli modyfikować swoje postacie, aby odzwierciedlić zmiany zachodzące w trakcie gry. Aplikacja będzie posiadała funkcję rejestracji i logowania. Przyszłe ulepszenia mogą obejmować system symulacji bitew.",
+		"wfra-credits": "Projekt wykonywany samodzielnie, prace w toku.",
+		"wfra-gallery-img1-caption": "Strona główna.",
+		"wfra-gallery-img2-caption": "Strona logowania.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.3. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -391,7 +399,7 @@ const translations = {
 		
 		"mcl-title": "Entwicklung einer C++-Bibliothek für Matrixberechnungen",
     	"project6-date": "Aug 2024 - Nov 2024",
-    	"mcl-description": `Die Matrix Calculations Library ist eine leichtgewichtige C++-Bibliothek, die eine API zum Durchführen grundlegender Matrixoperationen bereitstellt. Dieses Projekt umfasst Operationen wie Matrixaddition, Subtraktion, Multiplikation (sowohl mit Skalar als auch zwischen Matrizen) und Transposition. Für eine bessere Leistung bei der Verarbeitung größerer Matrizen ist es multithreaded. Die Bibliothek unterstützt auch die Ausnahmebehandlung für ungültige Vorgänge wie Dimensionskonflikte. Dieses Projekt ist mit einer klaren und benutzerfreundlichen API ausgestattet, die es Ihnen ermöglicht, Matrixoperationen über einfache Methodenaufrufe durchzuführen. Die Matrixoperationen sind sowohl auf Korrektheit als auch auf Leistung optimiert, einschließlich Threading-Unterstützung für größere Matrixberechnungen.`,
+    	"mcl-description": `Die Matrix Calculations Library ist eine leichtgewichtige C++-Bibliothek, die eine API zum Durchführen grundlegender Matrixoperationen bereitstellt. Dieses Projekt umfasst Operationen wie Matrixaddition, Subtraktion, Multiplikation mit Skalar und zwischen Matrizen, Transposition und Inversion. Für eine bessere Leistung bei der Verarbeitung größerer Matrizen ist es multithreaded. Die Bibliothek unterstützt auch die Ausnahmebehandlung für ungültige Vorgänge wie Dimensionskonflikte. Dieses Projekt ist mit einer klaren und benutzerfreundlichen API ausgestattet, die es Ihnen ermöglicht, Matrixoperationen über einfache Methodenaufrufe durchzuführen. Die Matrixoperationen sind sowohl auf Korrektheit als auch auf Leistung optimiert, einschließlich Threading-Unterstützung für größere Matrixberechnungen.`,
 		"mcl-credits": "Eigenständiges Projekt, 08.2024 - 11.2024.",
     	"mcl-gallery-img1-caption": "Matrixaddition.",
     	"mcl-gallery-img2-caption": "Matrixsubtraktion.",
@@ -406,14 +414,20 @@ const translations = {
 		"mcl-gallery-img11-caption": "Ermitteln der Dimensionen einer Matrix.",
 		"mcl-gallery-img12-caption": "Berechnung der invertierten Matrix.",
     	"mcl-result1": "Die Bibliothek bietet dem Benutzer Methoden zur Durchführung verschiedener Berechnungen mit Matrizen.",
-    	"mcl-result2": "Das MVP der Bibliothek verfügt über Funktionen zur Addition, Subtraktion, Transposition und Multiplikation von Matrizen mit einer anderen Matrix und einem Skalar. Weitere Updates sind geplant.",
+    	"mcl-result2": "Die Bibliothek verfügt beispielsweise über Funktionalitäten der Matrixaddition, -subtraktion, -transposition, -inversion und -multiplikation mit einer anderen Matrix und einem Skalar.",
 		"mcl-result3": "Der Benutzer kann die API-Klasse für eine intuitive Kommunikation mit der Bibliothek verwenden.",
     	"mcl-result4": "Die Bibliothek bietet Methoden zum Laden und Speichern von Matrizen aus bzw. in Dateien.",
     	"mcl-result5": "Die Methoden ermöglichen auch die Berechnung der Determinante einer gegebenen Matrix und das Extrahieren von Minormatrizen.",
 		"mcl-result6": "CppUnitTestFramework wurde für die Tests verwendet. Mehrere Tests gewährleisten die Korrektheit der Methoden.",
 
+		"wfra-title": "Warhammer Fantasy-Rollenspielanwendung",
+		"project7-date": "Okt 2024 - Präsent",
+		"wfra-description": "Ziel dieses Projekts ist die Erstellung einer Anwendung zur Unterstützung von Spielern des Warhammer Fantasy Roleplay-Spiels. Das Programm ermöglicht es Benutzern, ihre Charaktere, Ausrüstung und Statistiken zu speichern. Es wird auch ein Modul zum Erstellen neuer Charaktere enthalten. Benutzer können ihre Charaktere modifizieren, um Änderungen während des Spiels widerzuspiegeln. Die Anwendung verfügt über Registrierungs- und Anmeldefunktionen. Zukünftige Verbesserungen könnten ein System für Kampfsimulationen umfassen.",
+		"wfra-credits": "Eigenständiges Projekt, in Arbeit.",
+		"wfra-gallery-img1-caption": "Hauptseite.",
+		"wfra-gallery-img2-caption": "Anmeldeseite.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.6.3. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
