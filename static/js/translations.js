@@ -139,7 +139,7 @@ const translations = {
 		"wfra-gallery-img1-caption": "Main page.",
 		"wfra-gallery-img2-caption": "Login page.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -282,7 +282,7 @@ const translations = {
 		"wfra-gallery-img1-caption": "Strona główna.",
 		"wfra-gallery-img2-caption": "Strona logowania.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -427,7 +427,7 @@ const translations = {
 		"wfra-gallery-img1-caption": "Hauptseite.",
 		"wfra-gallery-img2-caption": "Anmeldeseite.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
