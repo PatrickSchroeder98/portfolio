@@ -138,8 +138,20 @@ const translations = {
 		"wfra-credits": "Self paced project, work in progress.",
 		"wfra-gallery-img1-caption": "Main page.",
 		"wfra-gallery-img2-caption": "Login page.",
+		"wfra-gallery-img3-caption": "Sign-up page.",
+		"wfra-gallery-img4-caption": "Empty character list.",
+		"wfra-gallery-img5-caption": "Character list.",
+		"wfra-gallery-img6-caption": "Details of a test character.",
+		"wfra-gallery-img7-caption": "Update page of a test character.",
+		"wfra-gallery-img8-caption": "Character deletion confirmation screen.",
+		"wfra-result1": "The project was developed using the Django framework.",
+    	"wfra-result2": "The application has been deployed on the PythonAnywhere platform.",
+    	"wfra-result3": "It features registration and login functionality.",
+    	"wfra-result4": "Users can create, update, and delete their own characters. Only characters belonging to the logged-in user are visible.",
+    	"wfra-result5": "Future updates, including equipment management and automation, are planned.",
+		"wfra-source": "Visit the deployed web application:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.1. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.2. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -281,8 +293,20 @@ const translations = {
 		"wfra-credits": "Projekt wykonywany samodzielnie, prace w toku.",
 		"wfra-gallery-img1-caption": "Strona główna.",
 		"wfra-gallery-img2-caption": "Strona logowania.",
+		"wfra-gallery-img3-caption": "Strona rejestracji.",
+		"wfra-gallery-img4-caption": "Pusta lista postaci.",
+		"wfra-gallery-img5-caption": "Lista postaci.",
+		"wfra-gallery-img6-caption": "Detale testowej postaci.",
+		"wfra-gallery-img7-caption": "Strona aktualizacji testowej postaci.",
+		"wfra-gallery-img8-caption": "Ekran potwierdzenia usunięcia postaci.",
+		"wfra-result1": "Projekt został opracowany przy użyciu frameworka Django.",
+    	"wfra-result2": "Aplikacja została wdrożona na platformie PythonAnywhere.",
+    	"wfra-result3": "Posiada funkcjonalność rejestracji i logowania.",
+    	"wfra-result4": "Użytkownicy mogą tworzyć, edytować i usuwać własne postacie. Widoczne są tylko postacie należące do zalogowanego użytkownika.",
+    	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
+		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.1. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.2. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -426,8 +450,20 @@ const translations = {
 		"wfra-credits": "Eigenständiges Projekt, in Arbeit.",
 		"wfra-gallery-img1-caption": "Hauptseite.",
 		"wfra-gallery-img2-caption": "Anmeldeseite.",
+		"wfra-gallery-img3-caption": "Registrierungsseite.",
+		"wfra-gallery-img4-caption": "Leere Charakterliste.",
+		"wfra-gallery-img5-caption": "Charakterliste.",
+		"wfra-gallery-img6-caption": "Details zum Testcharakter.",
+		"wfra-gallery-img7-caption": "Seite zur Aktualisierung von Testcharakteren.",
+		"wfra-gallery-img8-caption": "Bestätigungsbildschirm für das Löschen von Charakteren.",
+		"wfra-result1": "Das Projekt wurde mit dem Django-Framework entwickelt.",
+    	"wfra-result2": "Die Anwendung wurde auf der PythonAnywhere-Plattform bereitgestellt.",
+    	"wfra-result3": "Sie verfügt über eine Registrierungs- und Anmeldefunktion.",
+    	"wfra-result4": "Benutzer können ihre eigenen Charaktere erstellen, aktualisieren und löschen. Sichtbar sind nur Charaktere, die dem angemeldeten Benutzer gehören.",
+    	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
+		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.1. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.2. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };

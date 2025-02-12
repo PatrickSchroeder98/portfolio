@@ -33,6 +33,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.7.2 - updated WFRA page  
 1.7.1 - fixed typo in MCL pictures  
 1.7.0 - added WFRA page, updated MCL page  
 1.6.3 - updated MCL images and dates  
