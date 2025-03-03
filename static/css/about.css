@@ -65,6 +65,7 @@ body {
     padding: 20px 20px;
 }
 
+
 .skills-header {
     background: rgba(0, 0, 0, 0.5);
     padding: 20px;
@@ -83,7 +84,6 @@ body {
 .skills-grid {
     padding-left: 10%;
     padding-right: 10%;
-    padding-bottom: 5%;
     display: grid;
     grid-template-columns: repeat(4, 1fr); /* 3 equal columns */
     gap: 20px;
