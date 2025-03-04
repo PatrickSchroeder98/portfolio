@@ -5,6 +5,7 @@ const translations = {
         "nav-home": "Home",
         "nav-portfolio": "Portfolio",
         "nav-contact": "Contact",
+		"nav-about": "About",
         "hero-title": "Welcome to my Portfolio",
         "hero-text": "I'm Patrick Schröder, a software engineer with a master's degree in computer science. My main programming language is Python. Explore my projects and get in touch!",
         "portfolio-header": "My Projects",
@@ -17,6 +18,13 @@ const translations = {
 		"project4-date": "Jul 2024 - Aug 2024 (first version)",
         "view-more": "View More",
         "contact-header": "Contact Me",
+
+		"about-title": "About Me",
+		"about-text-1": "I'm Patrick Schröder, a skilled software engineer with a strong foundation in software development, projects management, software documentation, and unit testing. Over the past three years, I've continuously refined my technical skills and embraced a passion for continuous learning.",
+		"about-text-2": "I hold a master's degree in computer science from the University of Łódź, where my research focused on numerical applications, specifically the effects of high-powered laser beams on metal samples. My work involved solving complex physics problems, exploring electron, lattice, and spin temperature changes, and variations in electromagnetic fields through innovative programming.",
+		"about-text-3": "Professionally, I've contributed to diverse projects, including web applications, desktop software, and games. I have experience working in agile environments, using frameworks like Django and libraries such as Matplotlib for data visualization. My hands-on approach and attention to detail ensure high-quality software solutions.",
+		"about-text-4": "Outside of my professional work, I enjoy generating fractal art, blending mathematics and creativity to produce visually stunning pieces. You can view my digital artwork on my Fractal Art Website, where I share my creative journey.",
+		"skills-header": "My Skills",
 		
 		"engineer-thesis-title": "Development of a program for numerical analysis of heating process and energy transfer in metals exposed to high power laser beam in piko- and femtosecond regime",
 		"engineer-thesis-description": "The aim of this thesis was to create an application simulating changes in the dynamics of local temperature on the surface of a ferromagnetic metal subjected to a high-intensity pulse laser beam working in the picosecond and femtosecond regimes. Changes in the dynamics of temperatures in the area of the incident beam are presented on a graph using the Qt graphic package. The simulations were carried out using the C ++ language and the three temperature model, which in the case of femtosecond lasers assumes different temperatures for the electron system, the vibrating crystal lattice and the electron-polarized spin system. The main emphasis was placed on the numerical methods used, which were described along with their derivation. The functional specification of the application and solutions related to the technical issues of the program were presented. In addition, a short user manual has also been prepared.",
@@ -151,7 +159,7 @@ const translations = {
     	"wfra-result5": "Future updates, including equipment management and automation, are planned.",
 		"wfra-source": "Visit the deployed web application:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.2. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -160,6 +168,7 @@ const translations = {
         "nav-home": "Strona Główna",
         "nav-portfolio": "Portfolio",
         "nav-contact": "Kontakt",
+		"nav-about": "O mnie",
         "hero-title": "Witam na moim Portfolio",
         "hero-text": "Nazywam się Patrick Schröder, jestem inżynierem oprogramowania z tytułem magistra informatyki. Moim głównym językiem programowania jest Python. Przeglądaj moje projekty i skontaktuj się ze mną!",
         "portfolio-header": "Moje Projekty",
@@ -172,6 +181,13 @@ const translations = {
 		"project4-date": "Lip 2024 - Sie 2024 (pierwsza wersja)",
         "view-more": "Zobacz więcej",
         "contact-header": "Skontaktuj się ze mną",
+		
+		"about-title": "O mnie",
+		"about-text-1": "Nazywam się Patrick Schröder, jestem doświadczonym inżynierem oprogramowania z solidnymi podstawami w zakresie rozwoju oprogramowania, zarządzania projektami, dokumentacji oprogramowania i testowania jednostkowego. Przez ostatnie trzy lata nieustannie udoskonalałem swoje umiejętności techniczne i odkryłem pasję do ciągłego uczenia się.",
+		"about-text-2": "Posiadam tytuł magistra informatyki z Uniwersytetu Łódzkiego, gdzie moje badania koncentrowały się na zastosowaniach numerycznych, w szczególności na wpływie wiązek laserowych dużej mocy na próbki metali. Moja praca obejmowała rozwiązywanie złożonych problemów fizycznych, badanie zmian temperatury elektronów, sieci i spinu oraz wariacji pól elektromagnetycznych poprzez innowacyjne programowanie.",
+		"about-text-3": "Brałem udział w tworzeniu różnych projektów, w tym aplikacji internetowych, oprogramowania desktopowego i gier. Mam doświadczenie w pracy w środowiskach Agile, używając frameworków takich jak Django i bibliotek takich jak Matplotlib do wizualizacji danych. Moje praktyczne podejście i dbałość o szczegóły zapewniają wysokiej jakości rozwiązania techniczne.",
+		"about-text-4": "Poza pracą zawodową lubię tworzyć sztukę fraktalną, łącząc matematykę i kreatywność, aby tworzyć wizualnie oszałamiające dzieła. Możesz obejrzeć moje cyfrowe dzieła sztuki na mojej stronie ze sztuką fraktalną, gdzie dzielę się moją kreatywną podróżą.",
+		"skills-header": "Moje umiejętności",
 		
 		"engineer-thesis-title": "Opracowanie programu do analizy numerycznej procesu nagrzewania i transferu energii w metalach poddanych działaniu promieniowania laserowego dużej mocy w reżimie piko- i femto-sekundowym",
 		"engineer-thesis-description": "Celem niniejszej pracy dyplomowej było stworzenie aplikacji symulującej zmiany dynamiki lokalnej temperatury na powierzchni metalu ferromagnetycznego poddanego odziaływaniu wiązki lasera imulsowego dużej mocy pracującego w reżimie pikosekundowym i femtoskundowym. Zmiany dynamiki temperatur w obszarze działania padajacej wiązki zostały przedstawione na wykresie z wykorzystaniem pakietu graficznego Qt. Symulacje zostały przeprowadzone z wykorzystaniem języka C++ oraz modelu trzech temperatur który zakłada w przypadku laserów femtosekundowych, różne temeratury dla układu elektronów, drgajacej sieci krysztalicznej i układu spinów spolaryzowanych elektronów. Głowny nacisk położono na wykorzystywane metody numeryczne, które zostały opisane wraz z ich wyprowadzeniem. Przedstawiona została specyfikacja funkcjonalna aplikacji oraz rozwiązania dotyczące kwestii technicznych programu. Ponadto przygotowano również krótką instrukcję dla użytkownika.",
@@ -306,7 +322,7 @@ const translations = {
     	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
 		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.2. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -315,6 +331,7 @@ const translations = {
         "nav-home": "Startseite",
         "nav-portfolio": "Portfolio",
         "nav-contact": "Kontakt",
+		"nav-about": "Über mich",
         "hero-title": "Willkommen in meinem Portfolio",
         "hero-text": "Ich bin Patrick Schröder, ein Softwareingenieur mit einem Master-Abschluss in Informatik. Meine Hauptprogrammiersprache ist Python. Entdecken Sie meine Projekte und nehmen Sie Kontakt auf!",
         "portfolio-header": "Meine Projekte",
@@ -329,6 +346,13 @@ const translations = {
 
         "view-more": "Mehr anzeigen",
         "contact-header": "Kontaktieren Sie mich",
+
+		"about-title": "Über mich",
+		"about-text-1": "Ich bin Patrick Schröder, ein erfahrener Softwareentwickler mit fundierten Kenntnissen in Softwareentwicklung, Projektmanagement, Softwaredokumentation und Unit-Tests. In den letzten drei Jahren habe ich meine technischen Fähigkeiten kontinuierlich verfeinert und mich einer Leidenschaft für kontinuierliches Lernen verschrieben.",
+		"about-text-2": "Ich habe einen Masterabschluss in Informatik von der Universität Łódź, wo ich mich in meiner Forschung auf numerische Anwendungen konzentrierte, insbesondere auf die Auswirkungen von Hochleistungslaserstrahlen auf Metallproben. Meine Arbeit umfasste das Lösen komplexer physikalischer Probleme, die Erforschung von Temperaturänderungen bei Elektronen, Gittern und Spins sowie von Variationen in elektromagnetischen Feldern durch innovative Programmierung.",
+		"about-text-3": "Beruflich habe ich an verschiedenen Projekten mitgewirkt, darunter Webanwendungen, Desktop-Software und Spiele. Ich habe Erfahrung in der Arbeit in agilen Umgebungen und verwende Frameworks wie Django und Bibliotheken wie Matplotlib zur Datenvisualisierung. Mein praktischer Ansatz und meine Liebe zum Detail gewährleisten qualitativ hochwertige Softwarelösungen.",
+		"about-text-4": "Außerhalb meiner beruflichen Tätigkeit erschaffe ich gerne fraktale Kunst, indem ich Mathematik und Kreativität verbinde, um visuell beeindruckende Werke zu schaffen. Sie können meine digitalen Kunstwerke auf meiner Fraktal-Kunst-Website ansehen, wo ich meine kreative Reise teile.",
+		"skills-header": "Meine Fähigkeiten",
 		
 		"engineer-thesis-title": "Entwicklung eines Programms zur numerischen Analyse des Heizprozesses und des Energietransfers in Metallen, die einem Hochleistungslaserstrahl im Pico- und Femtosekundenbereich ausgesetzt sind",
 		"engineer-thesis-description": "Ziel dieser Arbeit war es, eine Anwendung zu erstellen, die Änderungen der lokalen Temperaturdynamik auf der Oberfläche eines ferromagnetischen Metalls simuliert, das einem hochintensiven gepulsten Laserstrahl im Pico- und Femtosekundenbereich ausgesetzt ist. Änderungen der Temperaturdynamik im Bereich des auftreffenden Strahls werden in einem Diagramm unter Verwendung des Qt-Grafikpakets dargestellt. Die Simulationen wurden mit der Programmiersprache C++ und dem Drei-Temperatur-Modell durchgeführt, das im Falle von Femtosekundenlasern unterschiedliche Temperaturen für das Elektronensystem, das vibrierende Kristallgitter und das elektronisch polarisierte Spinsystem annimmt. Der Schwerpunkt lag auf den verwendeten numerischen Methoden, die zusammen mit ihrer Herleitung beschrieben wurden. Die funktionalen Spezifikationen der Anwendung und Lösungen im Zusammenhang mit den technischen Fragen des Programms wurden vorgestellt. Darüber hinaus wurde auch ein kurzes Benutzerhandbuch vorbereitet.",
@@ -463,7 +487,7 @@ const translations = {
     	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
 		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.7.2. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };

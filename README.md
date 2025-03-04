@@ -12,6 +12,7 @@ The aim of this project is to create a website to showcase various IT projects. 
 ## Pages
 - **Main page:** Contains the welcome message, projects titles and contact information.
 - **Project page:** View project description, images, results and any extrnal links.
+- **About page:** View information about page owner.
 
 
 ## Language
@@ -33,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.8.0 - added 'About' page  
 1.7.2 - updated WFRA page  
 1.7.1 - fixed typo in MCL pictures  
 1.7.0 - added WFRA page, updated MCL page  
