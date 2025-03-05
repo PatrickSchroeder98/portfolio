@@ -34,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.8.1 - added new badge  
 1.8.0 - added 'About' page  
 1.7.2 - updated WFRA page  
 1.7.1 - fixed typo in MCL pictures  
