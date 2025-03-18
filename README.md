@@ -34,7 +34,8 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
-1.8.3 - added new certificate  
+1.8.4 - added functionality of viewing pictures in separate page, updated WFRA screenshots  
+1.8.3 - added another certificate  
 1.8.2 - added new certificate  
 1.8.1 - added new badge  
 1.8.0 - added 'About' page  
