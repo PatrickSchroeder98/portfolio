@@ -161,7 +161,7 @@ const translations = {
     	"wfra-result5": "Future updates, including equipment management and automation, are planned.",
 		"wfra-source": "Visit the deployed web application:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.6. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.7. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -326,7 +326,7 @@ const translations = {
     	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
 		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.6. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.7. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -493,7 +493,7 @@ const translations = {
     	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
 		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.6. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.7. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
