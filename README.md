@@ -34,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.8.9 - third update to certificates  
 1.8.8 - added new certificate, reorganized certificates  
 1.8.7 - added new certificate  
 1.8.6 - updated 'About' page  
