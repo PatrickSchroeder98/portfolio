@@ -20,10 +20,10 @@ const translations = {
         "contact-header": "Contact Me",
 
 		"about-title": "About Me",
-		"about-text-1": "I'm Patrick Schröder, a skilled software engineer with a strong foundation in software development, projects management, software documentation, and unit testing. Over the past three years, I've continuously refined my technical skills and embraced a passion for continuous learning.",
-		"about-text-2": "I hold a master's degree in computer science from the University of Łódź, where my research focused on numerical applications, specifically the effects of high-powered laser beams on metal samples. My work involved solving complex physics problems, exploring electron, lattice, and spin temperature changes, and variations in electromagnetic fields through innovative programming.",
-		"about-text-3": "Professionally, I've contributed to diverse projects, including web applications, desktop software, and games. I have experience working in agile environments, using frameworks like Django and libraries such as Matplotlib for data visualization. My hands-on approach and attention to detail ensure high-quality software solutions.",
-		"about-text-4": "Outside of my professional work, I enjoy generating fractal art, blending mathematics and creativity to produce visually stunning pieces. You can view my digital artwork on my Fractal Art Website, where I share my creative journey.",
+		"about-text-1": "Hi there! I'm Patrick Schröder, an independent software engineer with several years of hands-on experience in building scalable, well-documented, and testable software solutions. I specialize in Python, data visualization, and backend development, and I currently operate my own registered software development business. I'm available for B2B collaborations (40h/week) and open to both long-term projects and short-term development work.",
+		"about-text-2": "I hold a Master’s degree in Computer Science from the University of Łódź, where I conducted research in computational physics—developing numerical solutions to complex problems involving high-powered laser interaction with metal surfaces. This experience sharpened my algorithmic thinking and reinforced my ability to solve intricate challenges through code.",
+		"about-text-3": "Professionally, I’ve contributed to a wide range of projects, including desktop applications, web tools, and automation scripts. I’ve worked in Agile teams and independently, leveraging frameworks like Django and visualization libraries such as Matplotlib and PyQt6. I place a strong emphasis on clean code, thorough documentation, and thoughtful testing practices to ensure maintainable solutions.",
+		"about-text-4": "Outside of tech, I merge mathematics and creativity through digital fractal art, using Python to generate unique visual designs. You can find my work on my Fractal Art Website.",
 		"skills-header": "My Skills",
 		"badges-header": "My IBM Badges",
 		"hrnk-header": "My HackerRank Certificates",
@@ -161,7 +161,7 @@ const translations = {
     	"wfra-result5": "Future updates, including equipment management and automation, are planned.",
 		"wfra-source": "Visit the deployed web application:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.10. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.11. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -185,10 +185,10 @@ const translations = {
         "contact-header": "Skontaktuj się ze mną",
 		
 		"about-title": "O mnie",
-		"about-text-1": "Nazywam się Patrick Schröder, jestem doświadczonym inżynierem oprogramowania z solidnymi podstawami w zakresie rozwoju oprogramowania, zarządzania projektami, dokumentacji oprogramowania i testowania jednostkowego. Przez ostatnie trzy lata nieustannie udoskonalałem swoje umiejętności techniczne i odkryłem pasję do ciągłego uczenia się.",
-		"about-text-2": "Posiadam tytuł magistra informatyki z Uniwersytetu Łódzkiego, gdzie moje badania koncentrowały się na zastosowaniach numerycznych, w szczególności na wpływie wiązek laserowych dużej mocy na próbki metali. Moja praca obejmowała rozwiązywanie złożonych problemów fizycznych, badanie zmian temperatury elektronów, sieci i spinu oraz wariacji pól elektromagnetycznych poprzez innowacyjne programowanie.",
-		"about-text-3": "Brałem udział w tworzeniu różnych projektów, w tym aplikacji internetowych, oprogramowania desktopowego i gier. Mam doświadczenie w pracy w środowiskach Agile, używając frameworków takich jak Django i bibliotek takich jak Matplotlib do wizualizacji danych. Moje praktyczne podejście i dbałość o szczegóły zapewniają wysokiej jakości rozwiązania techniczne.",
-		"about-text-4": "Poza pracą zawodową lubię tworzyć sztukę fraktalną, łącząc matematykę i kreatywność, aby tworzyć wizualnie oszałamiające dzieła. Możesz obejrzeć moje cyfrowe dzieła sztuki na mojej stronie ze sztuką fraktalną, gdzie dzielę się moją kreatywną podróżą.",
+		"about-text-1": "Cześć! Nazywam się Patrick Schröder i jestem niezależnym inżynierem oprogramowania z kilkuletnim doświadczeniem w tworzeniu skalowalnych, dobrze udokumentowanych i testowalnych rozwiązań programistycznych. Specjalizuję się w Pythonie, wizualizacji danych oraz programowaniu backendowym. Prowadzę własną zarejestrowaną działalność gospodarczą w zakresie tworzenia oprogramowania. Jestem dostępny do współpracy B2B (40h/tydzień) i otwarty zarówno na długoterminowe projekty, jak i krótkie zlecenia.",
+  		"about-text-2": "Posiadam tytuł magistra informatyki zdobyty na Uniwersytecie Łódzkim, gdzie prowadziłem badania z zakresu fizyki obliczeniowej—opracowując numeryczne rozwiązania złożonych problemów związanych z oddziaływaniem laserów dużej mocy na powierzchnie metaliczne. Doświadczenie to wyostrzyło moje myślenie algorytmiczne i wzmocniło umiejętność rozwiązywania skomplikowanych problemów za pomocą kodu.",
+  		"about-text-3": "Zawodowo brałem udział w wielu projektach, w tym w tworzeniu aplikacji desktopowych, narzędzi webowych i skryptów automatyzujących. Pracowałem w zespołach pracujących w metodologiach Agile oraz samodzielnie, wykorzystując frameworki takie jak Django oraz biblioteki wizualizacyjne, m.in. Matplotlib i PyQt6. Kładę duży nacisk na czysty kod, solidną dokumentację i dokładne testy, aby zapewnić łatwą konserwację rozwiązań.",
+  		"about-text-4": "Poza technologią łączę matematykę z kreatywnością poprzez tworzenie cyfrowej sztuki fraktalnej, używając Pythona do generowania unikalnych wizualnych kompozycji. Moje prace można znaleźć na mojej stronie poświęconej fraktalnej sztuce.",
 		"skills-header": "Moje umiejętności",
 		"badges-header": "Moje odznaki z IBM",
 		"hrnk-header": "Moje certyfikaty z HackerRank",
@@ -326,7 +326,7 @@ const translations = {
     	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
 		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.10. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.11. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -352,10 +352,10 @@ const translations = {
         "contact-header": "Kontaktieren Sie mich",
 
 		"about-title": "Über mich",
-		"about-text-1": "Ich bin Patrick Schröder, ein erfahrener Softwareentwickler mit fundierten Kenntnissen in Softwareentwicklung, Projektmanagement, Softwaredokumentation und Unit-Tests. In den letzten drei Jahren habe ich meine technischen Fähigkeiten kontinuierlich verfeinert und mich einer Leidenschaft für kontinuierliches Lernen verschrieben.",
-		"about-text-2": "Ich habe einen Masterabschluss in Informatik von der Universität Łódź, wo ich mich in meiner Forschung auf numerische Anwendungen konzentrierte, insbesondere auf die Auswirkungen von Hochleistungslaserstrahlen auf Metallproben. Meine Arbeit umfasste das Lösen komplexer physikalischer Probleme, die Erforschung von Temperaturänderungen bei Elektronen, Gittern und Spins sowie von Variationen in elektromagnetischen Feldern durch innovative Programmierung.",
-		"about-text-3": "Beruflich habe ich an verschiedenen Projekten mitgewirkt, darunter Webanwendungen, Desktop-Software und Spiele. Ich habe Erfahrung in der Arbeit in agilen Umgebungen und verwende Frameworks wie Django und Bibliotheken wie Matplotlib zur Datenvisualisierung. Mein praktischer Ansatz und meine Liebe zum Detail gewährleisten qualitativ hochwertige Softwarelösungen.",
-		"about-text-4": "Außerhalb meiner beruflichen Tätigkeit erschaffe ich gerne fraktale Kunst, indem ich Mathematik und Kreativität verbinde, um visuell beeindruckende Werke zu schaffen. Sie können meine digitalen Kunstwerke auf meiner Fraktal-Kunst-Website ansehen, wo ich meine kreative Reise teile.",
+		"about-text-1": "Hallo! Ich bin Patrick Schröder, ein selbstständiger Softwareentwickler mit mehreren Jahren praktischer Erfahrung in der Entwicklung skalierbarer, gut dokumentierter und testbarer Softwarelösungen. Ich spezialisiere mich auf Python, Datenvisualisierung und Backend-Entwicklung und betreibe derzeit mein eigenes eingetragenes Softwareunternehmen. Ich bin für B2B-Zusammenarbeiten (40 Stunden/Woche) verfügbar und offen für sowohl langfristige Projekte als auch kurzfristige Entwicklungsaufgaben.",
+  		"about-text-2": "Ich habe einen Masterabschluss in Informatik von der Universität Łódź, wo ich in der computergestützten Physik geforscht habe – insbesondere in der Entwicklung numerischer Lösungen für komplexe Probleme im Zusammenhang mit der Wechselwirkung von Hochleistungslasern mit Metalloberflächen. Diese Erfahrung hat mein algorithmisches Denken geschärft und meine Fähigkeit gestärkt, komplexe Herausforderungen durch Programmierung zu lösen.",
+  		"about-text-3": "Beruflich habe ich an einer Vielzahl von Projekten mitgewirkt, darunter Desktop-Anwendungen, Webtools und Automatisierungsskripte. Ich habe sowohl in agilen Teams als auch eigenständig gearbeitet und dabei Frameworks wie Django und Visualisierungsbibliotheken wie Matplotlib und PyQt6 eingesetzt. Ich lege großen Wert auf sauberen Code, umfassende Dokumentation und sorgfältige Tests, um wartbare Lösungen zu gewährleisten.",
+  		"about-text-4": "Außerhalb der Technik verbinde ich Mathematik mit Kreativität durch digitale Fraktalkunst und nutze Python, um einzigartige visuelle Designs zu generieren. Meine Arbeiten findest du auf meiner Fractal Art Website.",
 		"skills-header": "Meine Fähigkeiten",
 		"badges-header": "Meine IBM Badges",
 		"hrnk-header": "Meine HackerRank-Zertifikate",
@@ -493,7 +493,7 @@ const translations = {
     	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
 		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.10. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.11. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
