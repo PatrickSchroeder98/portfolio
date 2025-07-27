@@ -34,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.8.12 - updated WFRA page  
 1.8.11 - updated 'About' page  
 1.8.10 - fourth update to certificates  
 1.8.9 - third update to certificates  

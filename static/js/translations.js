@@ -144,7 +144,7 @@ const translations = {
 		
 		"wfra-title": "Warhammer Fantasy Roleplay Application",
 		"project7-date": "Oct 2024 - Present",
-		"wfra-description": "The aim of this project is to create an application to support players of the Warhammer Fantasy Roleplay game. The program will allow users to save their characters, equipment, and statistics. It will also include a module for creating new characters. Users will be able to modify their characters to reflect changes during the game. The application will feature registration and login functionality. Future improvements may include a system for battle simulations.",
+		"wfra-description": "The aim of this project is to create an application to support players of the Warhammer Fantasy Roleplay game. The program will allow users to save their characters, equipment, and statistics. It will also include a module for creating new characters. Users will be able to modify their characters to reflect changes during the game. The application will feature registration and login functionality.",
 		"wfra-credits": "Self paced project, work in progress.",
 		"wfra-gallery-img1-caption": "Main page.",
 		"wfra-gallery-img2-caption": "Login page.",
@@ -161,7 +161,7 @@ const translations = {
     	"wfra-result5": "Future updates, including equipment management and automation, are planned.",
 		"wfra-source": "Visit the deployed web application:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.11. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.12. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -309,7 +309,7 @@ const translations = {
 
 		"wfra-title": "Aplikacja do Warhammer Fantasy Roleplay",
 		"project7-date": "Paź 2024 - Obecnie",
-		"wfra-description": "Celem tego projektu jest stworzenie aplikacji wspierającej graczy w Warhammer Fantasy Roleplay. Program umożliwi użytkownikom zapisywanie postaci, wyposażenia i statystyk. Znajdzie się w nim także moduł umożliwiający tworzenie nowych postaci. Użytkownicy będą mogli modyfikować swoje postacie, aby odzwierciedlić zmiany zachodzące w trakcie gry. Aplikacja będzie posiadała funkcję rejestracji i logowania. Przyszłe ulepszenia mogą obejmować system symulacji bitew.",
+		"wfra-description": "Celem tego projektu jest stworzenie aplikacji wspierającej graczy w Warhammer Fantasy Roleplay. Program umożliwi użytkownikom zapisywanie postaci, wyposażenia i statystyk. Znajdzie się w nim także moduł umożliwiający tworzenie nowych postaci. Użytkownicy będą mogli modyfikować swoje postacie, aby odzwierciedlić zmiany zachodzące w trakcie gry. Aplikacja będzie posiadała funkcję rejestracji i logowania.",
 		"wfra-credits": "Projekt wykonywany samodzielnie, prace w toku.",
 		"wfra-gallery-img1-caption": "Strona główna.",
 		"wfra-gallery-img2-caption": "Strona logowania.",
@@ -326,7 +326,7 @@ const translations = {
     	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
 		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.11. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.12. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -476,7 +476,7 @@ const translations = {
 
 		"wfra-title": "Warhammer Fantasy-Rollenspielanwendung",
 		"project7-date": "Okt 2024 - Präsent",
-		"wfra-description": "Ziel dieses Projekts ist die Erstellung einer Anwendung zur Unterstützung von Spielern des Warhammer Fantasy Roleplay-Spiels. Das Programm ermöglicht es Benutzern, ihre Charaktere, Ausrüstung und Statistiken zu speichern. Es wird auch ein Modul zum Erstellen neuer Charaktere enthalten. Benutzer können ihre Charaktere modifizieren, um Änderungen während des Spiels widerzuspiegeln. Die Anwendung verfügt über Registrierungs- und Anmeldefunktionen. Zukünftige Verbesserungen könnten ein System für Kampfsimulationen umfassen.",
+		"wfra-description": "Ziel dieses Projekts ist die Erstellung einer Anwendung zur Unterstützung von Spielern des Warhammer Fantasy Roleplay-Spiels. Das Programm ermöglicht es Benutzern, ihre Charaktere, Ausrüstung und Statistiken zu speichern. Es wird auch ein Modul zum Erstellen neuer Charaktere enthalten. Benutzer können ihre Charaktere modifizieren, um Änderungen während des Spiels widerzuspiegeln. Die Anwendung verfügt über Registrierungs- und Anmeldefunktionen.",
 		"wfra-credits": "Eigenständiges Projekt, in Arbeit.",
 		"wfra-gallery-img1-caption": "Hauptseite.",
 		"wfra-gallery-img2-caption": "Anmeldeseite.",
@@ -493,7 +493,7 @@ const translations = {
     	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
 		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.11. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.12. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
