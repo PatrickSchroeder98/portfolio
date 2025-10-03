@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Emails Classificator</title>
+    <link rel="icon" type="image/x-icon" href="./assets/img/favicon.ico">
+    <link rel="stylesheet" href="./static/css/projects.css">
+    <link rel="stylesheet" href="./static/css/header.css">
+    <link rel="stylesheet" href="./static/css/footer.css">
+    <link rel="stylesheet" href="./static/css/media.css">
+</head>
+<body>
+    <script src="./static/js/translations.js"></script>
+    <script src="./static/js/project_translate.js"></script>
+    <header>
+        <nav>
+            <div class="logo" data-i18n="logo">Portfolio</div>
+			<div class="nav-container">
+				<ul class="nav-links">
+					<li><a href="index.html" data-i18n="nav-home">Home</a></li>
+					<li><a href="index.html#portfolio" data-i18n="nav-portfolio">Portfolio</a></li>
+					<li><a href="index.html#contact" data-i18n="nav-contact">Contact</a></li>
+                    <li><a href="about.html" data-i18n="nav-about">About</a></li>
+				</ul>
+				<div class="language-switcher">
+					<a href="#" data-lang="en"><img src="assets/img/gb.jpg" alt="English"></a>
+					<a href="#" data-lang="pl"><img src="assets/img/pl.png" alt="Polish"></a>
+					<a href="#" data-lang="de"><img src="assets/img/de.png" alt="German"></a>
+				</div>
+			</div>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="project-logo">
+            <div class="image-logo">
+                <img src="assets/img/python-logo.png" alt="Image">
+            </div>
+        </section>
+        
+        <section class="project-description">
+            <h2 data-i18n="jec-title">Development of NLP-Powered Classificator of Job Application Emails Using Scikit-learn Library</h2>
+            <p data-i18n="jec-description">This project focuses on the development of a Natural Language Processing (NLP) based email classifier designed to support job seekers in managing recruitment-related communication. Using Scikit-learn pipelines, the system automatically categorizes incoming emails into key classes such as Invitation, Rejection, Confirmation, or Other. The solution demonstrates the use of machine learning, TF-IDF vectorization, and multiple model architectures (Naive Bayes, Logistic Regression, and a Two-Stage Pipeline). It highlights both the practical application of NLP techniques and the implementation of clean, modular Python code for a real-world use case.</p>
+            <p class="credits" data-i18n="jec-credits">Self paced project, work in progress.<p/>
+        </section>
+
+        <section class="project-images">
+            <h2 data-i18n="gallery">Gallery</h2>
+            <div class="image-gallery">
+                <div class="image-item">
+                    <a href="assets/img/jec_tmp.png">
+                        <img src="assets/img/jec_tmp.png" alt="Image">
+                    </a>
+                    <p data-i18n="jec-gallery-img1-caption">Prediction.</p>
+                </div>
+                
+            </div>
+        </section>
+
+        
+        
+        
+    </main>
+    <footer>
+        <p data-i18n="copyright">&copy; 2024, Patrick Schröder, Portfolio. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only.</p>
+    </footer>
+</body>
+</html>

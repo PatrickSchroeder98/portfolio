@@ -161,7 +161,13 @@ const translations = {
     	"wfra-result5": "Future updates, including equipment management and automation, are planned.",
 		"wfra-source": "Visit the deployed web application:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.12. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"jec-title": "Development of NLP-Powered Classificator of Job Application Emails Using Scikit-learn Library",
+		"project8-date": "Oct 2025 - Present",
+		"jec-description": "This project focuses on the development of a Natural Language Processing (NLP) based email classifier designed to support job seekers in managing recruitment-related communication. Using Scikit-learn pipelines, the system automatically categorizes incoming emails into key classes such as Invitation, Rejection, Confirmation, or Other. The solution demonstrates the use of machine learning, TF-IDF vectorization, and multiple model architectures (Naive Bayes, Logistic Regression, and a Two-Stage Pipeline). It highlights both the practical application of NLP techniques and the implementation of clean, modular Python code for a real-world use case.",
+		"jec-credits": "Self paced project, work in progress.",
+		"jec-gallery-img1-caption": "Prediction.",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.0. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -326,7 +332,13 @@ const translations = {
     	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
 		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.12. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"jec-title": "Opracowanie klasyfikatora wiadomości e-mail związanych z aplikacjami o pracę z wykorzystaniem biblioteki Scikit-learn i technik NLP",
+		"project8-date": "Paź 2025 - Obecnie",
+		"jec-description": "Projekt koncentruje się na opracowaniu klasyfikatora wiadomości e-mail opartego na przetwarzaniu języka naturalnego (NLP), którego celem jest wsparcie osób poszukujących pracy w zarządzaniu komunikacją rekrutacyjną. Z wykorzystaniem bibliotek Scikit-learn i potoków ML system automatycznie klasyfikuje przychodzące wiadomości do kluczowych kategorii takich jak Zaproszenie, Odrzucenie, Potwierdzenie lub Inne. Rozwiązanie demonstruje zastosowanie uczenia maszynowego, wektoryzacji TF-IDF oraz wielu architektur modeli (Naive Bayes, Regresja Logistyczna i klasyfikator dwustopniowy). Projekt podkreśla zarówno praktyczne użycie technik NLP, jak i implementację czystego i modułowego kodu w Pythonie dla rzeczywistego przypadku użycia.",
+		"jec-credits": "Projekt wykonywany samodzielnie, prace w toku.",
+		"jec-gallery-img1-caption": "Predykcja.",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.0. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -493,7 +505,13 @@ const translations = {
     	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
 		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.8.12. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"jec-title": "Entwicklung eines NLP-gestützten Klassifikators für Bewerbungs-E-Mails mit der Scikit-learn-Bibliothek",
+		"project8-date": "Okt 2025 - Präsent",
+		"jec-description": "Dieses Projekt konzentriert sich auf die Entwicklung eines E-Mail-Klassifikators auf Basis von Natural Language Processing (NLP), der Arbeitssuchende bei der Verwaltung von bewerbungsbezogener Kommunikation unterstützt. Mit Hilfe von Scikit-learn-Pipelines kategorisiert das System eingehende E-Mails automatisch in die wichtigsten Klassen wie Einladung, Absage, Bestätigung oder Sonstige. Die Lösung demonstriert den Einsatz von Machine Learning, TF-IDF-Vektorisierung und verschiedenen Modellarchitekturen (Naive Bayes, Logistische Regression und ein zweistufiger Klassifikator). Das Projekt hebt sowohl die praktische Anwendung von NLP-Techniken als auch die Implementierung von sauberem und modularem Python-Code für einen realen Anwendungsfall hervor.",
+		"jec-credits": "Eigenständiges Projekt, in Arbeit.",
+		"jec-gallery-img1-caption": "Vorhersage.",
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.0. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
