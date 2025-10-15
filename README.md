@@ -34,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.9.1 - updated JEC links, updated 'About' main text on page    
 1.9.0 - added JEC project page  
 1.8.12 - updated WFRA page  
 1.8.11 - updated 'About' page  
