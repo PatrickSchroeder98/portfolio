@@ -167,7 +167,7 @@ const translations = {
 		"jec-credits": "Self paced project, work in progress.",
 		"jec-gallery-img1-caption": "Prediction.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.4. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -338,7 +338,7 @@ const translations = {
 		"jec-credits": "Projekt wykonywany samodzielnie, prace w toku.",
 		"jec-gallery-img1-caption": "Predykcja.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.4. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -511,7 +511,7 @@ const translations = {
 		"jec-credits": "Eigenständiges Projekt, in Arbeit.",
 		"jec-gallery-img1-caption": "Vorhersage.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.4. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };

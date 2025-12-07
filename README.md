@@ -34,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.9.5 - added another certificate to 'About' page  
 1.9.4 - added new certificate to 'About' page  
 1.9.3 - added certificate to 'About' page, updated order of certificates  
 1.9.2 - added 2 certificates to 'About' page  
