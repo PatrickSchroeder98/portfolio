@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Emails Classificator</title>
+    <title>Jobhunt Emails Classificator</title>
     <link rel="icon" type="image/x-icon" href="./assets/img/favicon.ico">
     <link rel="stylesheet" href="./static/css/projects.css">
     <link rel="stylesheet" href="./static/css/header.css">
@@ -42,7 +42,7 @@
         <section class="project-description">
             <h2 data-i18n="jec-title">Development of NLP-Powered Classificator of Job Application Emails Using Scikit-learn Library</h2>
             <p data-i18n="jec-description">This project presents a production-oriented Natural Language Processing (NLP) email classification system designed to assist job seekers in organizing and interpreting recruitment-related email communication. Built with Python and Scikit-learn, the application automatically classifies emails into meaningful categories such as Invitation, Rejection, Confirmation, or Non job-hunt related, significantly reducing manual effort during job searches. The system supports two complementary classification architectures: the three-stage binary pipelines, where emails are progressively filtered through specialized models (job-related detection → confirmation detection → invitation vs rejection); and a multiclassifier pipeline, capable of predicting all classes directly using a single model. Both approaches are implemented using modular Scikit-learn pipelines with TF-IDF vectorization and a flexible classifier registry supporting a wide range of algorithms, including Naive Bayes, Logistic Regression, SVMs, ensemble methods, and meta-classifiers such as VotingClassifier and StackingClassifier.</p>
-            <p class="credits" data-i18n="jec-credits">Self paced project, 10.2025 - 01.2026.<p/>
+            <p class="credits" data-i18n="jec-credits">Self paced project, 10.2025 - 01.2026</p>
         </section>
 
         <section class="project-images">
@@ -91,10 +91,22 @@
                     <p data-i18n="jec-gallery-img7-caption">Example of a training data for a three-stage classifier to diverse jobhunt emails from other.</p>
                 </div>
                 <div class="image-item">
+                    <a href="assets/img/jec_3_stage_classifier_training_data_example_confirmation.png">
+                        <img src="assets/img/jec_3_stage_classifier_training_data_example_confirmation.png" alt="Image">
+                    </a>
+                    <p data-i18n="jec-gallery-img8-caption">Example of a training data for a three-stage classifier to diverse confirmation emails from other categoies.</p>
+                </div>
+                <div class="image-item">
+                    <a href="assets/img/jec_3_stage_classifier_training_data_example_confirmation.png">
+                        <img src="assets/img/jec_3_stage_classifier_training_data_example_invitation.png" alt="Image">
+                    </a>
+                    <p data-i18n="jec-gallery-img9-caption">Example of a training data for a three-stage classifier to diverse invitation emails from other categoies.</p>
+                </div>
+                <div class="image-item">
                     <a href="assets/img/jec_multiclassifier_training_data_example.png">
                         <img src="assets/img/jec_multiclassifier_training_data_example.png" alt="Image">
                     </a>
-                    <p data-i18n="jec-gallery-img8-caption">Example of a training data for a multiclassifier.</p>
+                    <p data-i18n="jec-gallery-img10-caption">Example of a training data for a multiclassifier.</p>
                 </div>
             </div>
         </section>

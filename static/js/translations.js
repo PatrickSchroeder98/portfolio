@@ -162,10 +162,19 @@ const translations = {
 		"wfra-source": "Visit the deployed web application:",
 
 		"jec-title": "Development of NLP-Powered Classificator of Job Application Emails Using Scikit-learn Library",
-		"project8-date": "Oct 2025 - Present",
-		"jec-description": "This project focuses on the development of a Natural Language Processing (NLP) based email classifier designed to support job seekers in managing recruitment-related communication. Using Scikit-learn pipelines, the system automatically categorizes incoming emails into key classes such as Invitation, Rejection, Confirmation, or Other. The solution demonstrates the use of machine learning, TF-IDF vectorization, and multiple model architectures (Naive Bayes, Logistic Regression, and a Two-Stage Pipeline). It highlights both the practical application of NLP techniques and the implementation of clean, modular Python code for a real-world use case.",
-		"jec-credits": "Self paced project, work in progress.",
-		"jec-gallery-img1-caption": "Prediction.",
+		"project8-date": "Oct 2025 - Jan 2026",
+		"jec-description": "This project presents a production-oriented Natural Language Processing (NLP) email classification system designed to assist job seekers in organizing and interpreting recruitment-related email communication. Built with Python and Scikit-learn, the application automatically classifies emails into meaningful categories such as Invitation, Rejection, Confirmation, or Non job-hunt related, significantly reducing manual effort during job searches. The system supports two complementary classification architectures: the three-stage binary pipelines, where emails are progressively filtered through specialized models (job-related detection → confirmation detection → invitation vs rejection); and a multiclassifier pipeline, capable of predicting all classes directly using a single model. Both approaches are implemented using modular Scikit-learn pipelines with TF-IDF vectorization and a flexible classifier registry supporting a wide range of algorithms, including Naive Bayes, Logistic Regression, SVMs, ensemble methods, and meta-classifiers such as VotingClassifier and StackingClassifier.",
+		"jec-credits": "Self paced project, 10.2025 - 01.2026",
+		"jec-gallery-img1-caption": "Accuracy of first stage of 3-stage-classifier.",
+		"jec-gallery-img2-caption": "Accuracy of multiclassifier.",
+		"jec-gallery-img3-caption": "Prediction of a confirmation email.",
+		"jec-gallery-img4-caption": "Prediction of an invitation email.",
+		"jec-gallery-img5-caption": "Prediction of an email not connected to jobhunt.",
+		"jec-gallery-img6-caption": "Prediction of a rejection email.",
+		"jec-gallery-img7-caption": "Example of a training data for a three-stage classifier to diverse jobhunt emails from other.",
+		"jec-gallery-img8-caption": "Example of a training data for a three-stage classifier to diverse confirmation emails from other categoies.",
+		"jec-gallery-img9-caption": "Example of a training data for a three-stage classifier to diverse invitation emails from other categoies.",
+		"jec-gallery-img10-caption": "Example of a training data for a multiclassifier.",
 
 		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
