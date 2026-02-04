@@ -175,6 +175,15 @@ const translations = {
 		"jec-gallery-img8-caption": "Example of a training data for a three-stage classifier to diverse confirmation emails from other categoies.",
 		"jec-gallery-img9-caption": "Example of a training data for a three-stage classifier to diverse invitation emails from other categoies.",
 		"jec-gallery-img10-caption": "Example of a training data for a multiclassifier.",
+		"jec-result1": "Designed and implemented a fully functional NLP-based email classification system tailored for job-hunting.",
+		"jec-result2": "Successfully built two independent classification architectures: a three-stage pipeline for step-by-step decision making and a multiclassifier pipeline for direct multi-label prediction.",
+		"jec-result3": "Integrated TF-IDF vectorization with multiple machine learning classifiers using Scikit-learn pipelines.",
+		"jec-result4": "Implemented support for following classifiers options: MultinomialNB, ComplementNB, BernoulliNB, LogisticRegression, SGDClassifier, RidgeClassifier, LinearSVC, SVC, KNeighborsClassifier, DecisionTreeClassifier, ExtraTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, VotingClassifier (only for multiclassifier), StackingClassifier (only for multiclassifier).",
+		"jec-result5": "Developed a flexible classifier registry, enabling easy extension and configuration of models without modifying core logic.",
+		"jec-result6": "Implemented robust custom exception handling, ensuring predictable behavior and clear error reporting for invalid inputs and configurations.",
+		"jec-result7": "Conducted extensive unit tests using mocking and parameterized testing, without reliance on real data or trained models; verified correct behavior for all execution paths, including success routes and all exception branches.",
+		"jec-result8": "Generated automated API documentation using Sphinx, covering source code and test modules.",
+		"jec-result9": "Applied clean architecture principles, resulting in modular, readable, and maintainable code suitable for further development.",
 
 		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
