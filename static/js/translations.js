@@ -185,7 +185,7 @@ const translations = {
 		"jec-result8": "Generated automated API documentation using Sphinx, covering source code and test modules.",
 		"jec-result9": "Applied clean architecture principles, resulting in modular, readable, and maintainable code suitable for further development.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.6. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -350,13 +350,31 @@ const translations = {
     	"wfra-result5": "Planowane są przyszłe aktualizacje, w tym zarządzanie ekwipunkiem i automatyzacja.",
 		"wfra-source": "Zobacz aplikację internetową: ",
 
-		"jec-title": "Opracowanie klasyfikatora wiadomości e-mail związanych z aplikacjami o pracę z wykorzystaniem biblioteki Scikit-learn i technik NLP",
-		"project8-date": "Paź 2025 - Obecnie",
-		"jec-description": "Projekt koncentruje się na opracowaniu klasyfikatora wiadomości e-mail opartego na przetwarzaniu języka naturalnego (NLP), którego celem jest wsparcie osób poszukujących pracy w zarządzaniu komunikacją rekrutacyjną. Z wykorzystaniem bibliotek Scikit-learn i potoków ML system automatycznie klasyfikuje przychodzące wiadomości do kluczowych kategorii takich jak Zaproszenie, Odrzucenie, Potwierdzenie lub Inne. Rozwiązanie demonstruje zastosowanie uczenia maszynowego, wektoryzacji TF-IDF oraz wielu architektur modeli (Naive Bayes, Regresja Logistyczna i klasyfikator dwustopniowy). Projekt podkreśla zarówno praktyczne użycie technik NLP, jak i implementację czystego i modułowego kodu w Pythonie dla rzeczywistego przypadku użycia.",
-		"jec-credits": "Projekt wykonywany samodzielnie, prace w toku.",
-		"jec-gallery-img1-caption": "Predykcja.",
+		"jec-title": "Opracowanie klasyfikatora e-maili dotyczących aplikacji o pracę opartego na NLP z wykorzystaniem biblioteki Scikit-learn",
+		"project8-date": "Paź 2025 - Sty 2026",
+		"jec-description": "Projekt przedstawia produkcyjnie zorientowany system klasyfikacji e-maili oparty na przetwarzaniu języka naturalnego (NLP), zaprojektowany w celu wsparcia osób poszukujących pracy w organizowaniu i interpretowaniu korespondencji rekrutacyjnej. Aplikacja, zbudowana w Pythonie z wykorzystaniem biblioteki Scikit-learn, automatycznie klasyfikuje wiadomości e-mail do znaczących kategorii, takich jak Zaproszenie, Odrzucenie, Potwierdzenie lub Niezwiązane z poszukiwaniem pracy, znacząco ograniczając ręczny nakład pracy podczas procesu rekrutacyjnego. System obsługuje dwie komplementarne architektury klasyfikacji: trzystopniowe binarne potoki, w których wiadomości są stopniowo filtrowane przez wyspecjalizowane modele (wykrywanie związku z pracą → wykrywanie potwierdzenia → zaproszenie vs odrzucenie), oraz potok wieloklasowy, zdolny do bezpośredniego przewidywania wszystkich klas przy użyciu jednego modelu. Oba podejścia zostały zaimplementowane z wykorzystaniem modułowych potoków Scikit-learn z wektoryzacją TF-IDF oraz elastycznym rejestrem klasyfikatorów obsługującym szeroki zakres algorytmów, w tym Naiwny Bayes, Regresję Logistyczną, SVM, metody zespołowe oraz metaklasyfikatory takie jak VotingClassifier i StackingClassifier.",
+		"jec-credits": "Projekt realizowany samodzielnie, 10.2025 - 01.2026",
+		"jec-gallery-img1-caption": "Dokładność pierwszego etapu trzystopniowego klasyfikatora.",
+		"jec-gallery-img2-caption": "Dokładność klasyfikatora wieloklasowego.",
+		"jec-gallery-img3-caption": "Predykcja e-maila typu potwierdzenie.",
+		"jec-gallery-img4-caption": "Predykcja e-maila typu zaproszenie.",
+		"jec-gallery-img5-caption": "Predykcja e-maila niezwiązanego z poszukiwaniem pracy.",
+		"jec-gallery-img6-caption": "Predykcja e-maila typu odrzucenie.",
+		"jec-gallery-img7-caption": "Przykład danych treningowych dla trzystopniowego klasyfikatora odróżniającego e-maile związane z poszukiwaniem pracy od pozostałych.",
+		"jec-gallery-img8-caption": "Przykład danych treningowych dla trzystopniowego klasyfikatora odróżniającego e-maile potwierdzające od innych kategorii.",
+		"jec-gallery-img9-caption": "Przykład danych treningowych dla trzystopniowego klasyfikatora odróżniającego e-maile zapraszające od innych kategorii.",
+		"jec-gallery-img10-caption": "Przykład danych treningowych dla klasyfikatora wieloklasowego.",
+		"jec-result1": "Zaprojektowanie i implementacja w pełni funkcjonalnego systemu klasyfikacji e-maili opartego na NLP, ukierunkowanego na potrzeby osób poszukujących pracy.",
+		"jec-result2": "Zbudowanie dwóch niezależnych architektur klasyfikacji: trzystopniowego potoku decyzyjnego oraz potoku wieloklasowego do bezpośredniej predykcji wielu klas.",
+		"jec-result3": "Integracja wektoryzacji TF-IDF z wieloma klasyfikatorami uczenia maszynowego w ramach potoków Scikit-learn.",
+		"jec-result4": "Implementacja wsparcia dla następujących klasyfikatorów: MultinomialNB, ComplementNB, BernoulliNB, LogisticRegression, SGDClassifier, RidgeClassifier, LinearSVC, SVC, KNeighborsClassifier, DecisionTreeClassifier, ExtraTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, VotingClassifier (tylko dla klasyfikatora wieloklasowego), StackingClassifier (tylko dla klasyfikatora wieloklasowego).",
+		"jec-result5": "Opracowanie elastycznego rejestru klasyfikatorów umożliwiającego łatwe rozszerzanie i konfigurację modeli bez modyfikowania logiki aplikacji.",
+		"jec-result6": "Implementacja rozbudowanego systemu własnych wyjątków zapewniającego przewidywalne działanie i czytelne raportowanie błędów.",
+		"jec-result7": "Przeprowadzenie rozbudowanych testów jednostkowych z wykorzystaniem mocków i testów parametryzowanych, bez użycia rzeczywistych danych lub wytrenowanych modeli; weryfikacja wszystkich ścieżek wykonania, w tym scenariuszy poprawnych i błędnych.",
+		"jec-result8": "Wygenerowanie automatycznej dokumentacji API przy użyciu Sphinx obejmującej kod źródłowy oraz moduły testowe.",
+		"jec-result9": "Zastosowanie zasad czystej architektury skutkujące modularnym, czytelnym i łatwym w utrzymaniu kodem.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.6. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -523,13 +541,32 @@ const translations = {
     	"wfra-result5": "Zukünftige Updates, einschließlich Ausrüstungsverwaltung und Automatisierung, sind geplant.",
 		"wfra-source": "Besuchen Sie die bereitgestellte Webanwendung:",
 
-		"jec-title": "Entwicklung eines NLP-gestützten Klassifikators für Bewerbungs-E-Mails mit der Scikit-learn-Bibliothek",
-		"project8-date": "Okt 2025 - Präsent",
-		"jec-description": "Dieses Projekt konzentriert sich auf die Entwicklung eines E-Mail-Klassifikators auf Basis von Natural Language Processing (NLP), der Arbeitssuchende bei der Verwaltung von bewerbungsbezogener Kommunikation unterstützt. Mit Hilfe von Scikit-learn-Pipelines kategorisiert das System eingehende E-Mails automatisch in die wichtigsten Klassen wie Einladung, Absage, Bestätigung oder Sonstige. Die Lösung demonstriert den Einsatz von Machine Learning, TF-IDF-Vektorisierung und verschiedenen Modellarchitekturen (Naive Bayes, Logistische Regression und ein zweistufiger Klassifikator). Das Projekt hebt sowohl die praktische Anwendung von NLP-Techniken als auch die Implementierung von sauberem und modularem Python-Code für einen realen Anwendungsfall hervor.",
-		"jec-credits": "Eigenständiges Projekt, in Arbeit.",
-		"jec-gallery-img1-caption": "Vorhersage.",
+		"jec-title": "Entwicklung eines NLP-basierten Klassifikators für Bewerbungs-E-Mails mit der Scikit-learn-Bibliothek",
+		"project8-date": "Okt 2025 - Jan 2026",
+		"jec-description": "Dieses Projekt präsentiert ein produktionsorientiertes System zur E-Mail-Klassifikation auf Basis von Natural Language Processing (NLP), das entwickelt wurde, um Arbeitssuchende bei der Organisation und Interpretation von rekrutierungsbezogener Kommunikation zu unterstützen. Die in Python mit Scikit-learn entwickelte Anwendung klassifiziert E-Mails automatisch in aussagekräftige Kategorien wie Einladung, Absage, Bestätigung oder Nicht jobsuchbezogen und reduziert dadurch den manuellen Aufwand während des Bewerbungsprozesses erheblich. Das System unterstützt zwei komplementäre Klassifikationsarchitekturen: dreistufige binäre Pipelines, in denen E-Mails schrittweise durch spezialisierte Modelle gefiltert werden (Erkennung von Jobbezug → Erkennung von Bestätigung → Einladung vs. Absage), sowie eine Multiclassifier-Pipeline, die alle Klassen direkt mit einem einzigen Modell vorhersagt. Beide Ansätze sind mit modularen Scikit-learn-Pipelines, TF-IDF-Vektorisierung und einem flexiblen Klassifikator-Register implementiert, das eine Vielzahl von Algorithmen unterstützt, darunter Naive Bayes, Logistische Regression, SVMs, Ensemble-Methoden sowie Metaklassifikatoren wie VotingClassifier und StackingClassifier.",
+		"jec-credits": "Selbstständiges Projekt, 10.2025 - 01.2026",
+		"jec-gallery-img1-caption": "Genauigkeit der ersten Stufe des dreistufigen Klassifikators.",
+		"jec-gallery-img2-caption": "Genauigkeit des Multiclassifiers.",
+		"jec-gallery-img3-caption": "Vorhersage einer Bestätigungs-E-Mail.",
+		"jec-gallery-img4-caption": "Vorhersage einer Einladungs-E-Mail.",
+		"jec-gallery-img5-caption": "Vorhersage einer nicht jobsuchbezogenen E-Mail.",
+		"jec-gallery-img6-caption": "Vorhersage einer Absage-E-Mail.",
+		"jec-gallery-img7-caption": "Beispiel für Trainingsdaten eines dreistufigen Klassifikators zur Unterscheidung jobsuchbezogener E-Mails von anderen.",
+		"jec-gallery-img8-caption": "Beispiel für Trainingsdaten eines dreistufigen Klassifikators zur Unterscheidung von Bestätigungs-E-Mails von anderen Kategorien.",
+		"jec-gallery-img9-caption": "Beispiel für Trainingsdaten eines dreistufigen Klassifikators zur Unterscheidung von Einladungs-E-Mails von anderen Kategorien.",
+		"jec-gallery-img10-caption": "Beispiel für Trainingsdaten eines Multiclassifiers.",
+		"jec-result1": "Entwurf und Implementierung eines voll funktionsfähigen NLP-basierten E-Mail-Klassifikationssystems für den Bewerbungsprozess.",
+		"jec-result2": "Erfolgreiche Entwicklung von zwei unabhängigen Klassifikationsarchitekturen: einer dreistufigen Pipeline für schrittweise Entscheidungen und einer Multiclassifier-Pipeline für direkte Mehrklassen-Vorhersagen.",
+		"jec-result3": "Integration von TF-IDF-Vektorisierung mit mehreren Machine-Learning-Klassifikatoren innerhalb von Scikit-learn-Pipelines.",
+		"jec-result4": "Implementierung der Unterstützung für folgende Klassifikatoren: MultinomialNB, ComplementNB, BernoulliNB, LogisticRegression, SGDClassifier, RidgeClassifier, LinearSVC, SVC, KNeighborsClassifier, DecisionTreeClassifier, ExtraTreeClassifier, RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier, VotingClassifier (nur für Multiclassifier), StackingClassifier (nur für Multiclassifier).",
+		"jec-result5": "Entwicklung eines flexiblen Klassifikator-Registers zur einfachen Erweiterung und Konfiguration von Modellen ohne Änderung der Kernlogik.",
+		"jec-result6": "Implementierung robuster benutzerdefinierter Ausnahmebehandlung für vorhersehbares Verhalten und klare Fehlermeldungen.",
+		"jec-result7": "Durchführung umfangreicher Unit-Tests mit Mocking und parametrisierter Testung ohne Verwendung realer Daten oder trainierter Modelle; Verifikation aller Ausführungspfade inklusive Erfolgs- und Fehlerfälle.",
+		"jec-result8": "Erstellung automatisierter API-Dokumentation mit Sphinx für Quellcode und Testmodule.",
+		"jec-result9": "Anwendung von Clean-Architecture-Prinzipien für modularen, lesbaren und wartbaren Code.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.5. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.6. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
