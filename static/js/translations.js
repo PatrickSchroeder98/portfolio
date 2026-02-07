@@ -185,7 +185,7 @@ const translations = {
 		"jec-result8": "Generated automated API documentation using Sphinx, covering source code and test modules.",
 		"jec-result9": "Applied clean architecture principles, resulting in modular, readable, and maintainable code suitable for further development.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.6. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.7. All rights reserved. All logos are trademarks of their respective owners and are used here for informational purposes only."
 
 	},
     pl: {
@@ -374,7 +374,7 @@ const translations = {
 		"jec-result8": "Wygenerowanie automatycznej dokumentacji API przy użyciu Sphinx obejmującej kod źródłowy oraz moduły testowe.",
 		"jec-result9": "Zastosowanie zasad czystej architektury skutkujące modularnym, czytelnym i łatwym w utrzymaniu kodem.",
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.6. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.7. Wszelkie prawa zastrzeżone. Wszystkie logo są znakami towarowymi ich odpowiednich właścicieli i zostały użyte tutaj wyłącznie w celach informacyjnych."
 		
     },
     de: {
@@ -566,7 +566,7 @@ const translations = {
 		"jec-result9": "Anwendung von Clean-Architecture-Prinzipien für modularen, lesbaren und wartbaren Code.",
 
 
-		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.6. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
+		"copyright": "\xa9 2024, Patrick Schröder, Portfolio v1.9.7. Alle Rechte vorbehalten. Alle Logos sind Marken ihrer jeweiligen Eigentümer und werden hier nur zu Informationszwecken verwendet."
 
 	}
 };
