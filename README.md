@@ -34,26 +34,27 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
-1.9.7 - added new certificate to 'About' page  
+1.9.8 - reworded changelog, 17th update to 'About' page  
+1.9.7 - 16th update to 'About' page  
 1.9.6 - updated JEC project page  
-1.9.5 - added another certificate to 'About' page  
-1.9.4 - added new certificate to 'About' page  
-1.9.3 - added certificate to 'About' page, updated order of certificates  
-1.9.2 - added 2 certificates to 'About' page  
-1.9.1 - updated JEC links, updated 'About' main text on page  
+1.9.5 - 15th update to 'About' page  
+1.9.4 - 14th update to 'About' page  
+1.9.3 - 13th update to 'About' page  
+1.9.2 - 12th update to 'About' page  
+1.9.1 - updated JEC links, 11th update to 'About' page  
 1.9.0 - added JEC project page  
 1.8.12 - updated WFRA page  
-1.8.11 - updated 'About' page  
-1.8.10 - fourth update to certificates  
-1.8.9 - third update to certificates  
-1.8.8 - added new certificate, reorganized certificates  
-1.8.7 - added new certificate  
-1.8.6 - updated 'About' page  
-1.8.5 - update to badges  
+1.8.11 - 10th update to 'About' page  
+1.8.10 - 9th update to 'About' page  
+1.8.9 - 8th update to 'About' page  
+1.8.8 - 7th update to 'About' page  
+1.8.7 - 6th update to 'About' page  
+1.8.6 - 5th update to 'About' page  
+1.8.5 - 4th update to 'About' page  
 1.8.4 - added functionality of viewing pictures in separate page, updated WFRA screenshots  
-1.8.3 - added another certificate  
-1.8.2 - added new certificate  
-1.8.1 - added new badge  
+1.8.3 - 3rd update to 'About' page  
+1.8.2 - 2th update to 'About' page  
+1.8.1 - updated 'About' page  
 1.8.0 - added 'About' page  
 1.7.2 - updated WFRA page  
 1.7.1 - fixed typo in MCL pictures  
