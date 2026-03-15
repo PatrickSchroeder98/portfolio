@@ -34,6 +34,7 @@ The full documentation of project can be found on my [Software Documentation Web
 
  
 ## Changelog:  
+1.9.9 - 18th update to 'About' page  
 1.9.8 - reworded changelog, 17th update to 'About' page  
 1.9.7 - 16th update to 'About' page  
 1.9.6 - updated JEC project page  
